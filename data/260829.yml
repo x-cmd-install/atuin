@@ -1,0 +1,67 @@
+about:
+  description: ✨ Making your shell magical
+  license: MIT
+  homepage: https://atuin.sh
+  head: e34b9dd
+  archived: false
+  latestVersion: v18.20.1
+  collectedAt: 2026-08-29T07:12:12Z
+timeline:
+  created: 2020-10-04
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-27
+popularity:
+  star: 31453
+  watcher: 74
+  fork: 944
+  release: 90
+  contributor: 334
+  pullRequest: 603
+  issue: 1383
+language:
+  Rust: 2681309
+  Shell: 80953
+  PowerShell: 11808
+  TypeScript: 9633
+  Nix: 4682
+  Dockerfile: 4506
+  Lua: 4243
+  Nushell: 4193
+  Xonsh: 3629
+  PLpgSQL: 3330
+  Tree-sitter Query: 2117
+  RenderScript: 2
+totalLine: 2810405
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 9
+    mergedPR: 110
+    openPR: 38
+    closedIssue: 18
+    openIssue: 20
+    commit: 118
+  last90d:
+    since: 2026-05-31
+    release: 15
+    mergedPR: 281
+    openPR: 63
+    closedIssue: 53
+    openIssue: 40
+    commit: 319
+  last180d:
+    since: 2026-03-02
+    release: 34
+    mergedPR: 424
+    openPR: 74
+    closedIssue: 116
+    openIssue: 67
+    commit: 473
+  last360d:
+    since: 2025-09-03
+    release: 45
+    mergedPR: 594
+    openPR: 86
+    closedIssue: 200
+    openIssue: 104
+    commit: 678
