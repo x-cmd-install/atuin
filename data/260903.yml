@@ -1,25 +1,27 @@
 about:
-  description: ✨ Making your shell magical
+  description:
+  |
+    ✨ Making your shell magical
   license: MIT
   homepage: https://atuin.sh
-  head: 711b96f
+  head: ec729ba
   archived: false
   latestVersion: v18.21.0
-  collectedAt: 2026-09-03T04:43:18Z
+  collectedAt: 2026-09-03T22:20:26Z
 timeline:
   created: 2020-10-04
   lastCommit: 2026-09-03
   lastRelease: 2026-08-31
 popularity:
-  star: 31505
+  star: 31520
   watcher: 78
-  fork: 953
+  fork: 954
   release: 91
   contributor: 334
-  pullRequest: 617
-  issue: 1387
+  pullRequest: 619
+  issue: 1389
 language:
-  Rust: 2787435
+  Rust: 2790064
   Shell: 80960
   PowerShell: 11808
   TypeScript: 9633
@@ -31,37 +33,37 @@ language:
   PLpgSQL: 3330
   Tree-sitter Query: 2117
   RenderScript: 2
-totalLine: 2916459
+totalBytes: 2919088
 recent:
   last30d:
     since: 2026-08-04
     release: 6
-    mergedPR: 103
-    openPR: 39
-    closedIssue: 16
+    mergedPR: 104
+    openPR: 41
+    closedIssue: 18
     openIssue: 20
-    commit: 105
+    commit: 106
   last90d:
     since: 2026-06-05
     release: 16
-    mergedPR: 295
-    openPR: 70
-    closedIssue: 52
+    mergedPR: 296
+    openPR: 72
+    closedIssue: 54
     openIssue: 42
-    commit: 332
+    commit: 333
   last180d:
     since: 2026-03-07
     release: 34
-    mergedPR: 433
-    openPR: 81
-    closedIssue: 117
+    mergedPR: 434
+    openPR: 83
+    closedIssue: 119
     openIssue: 68
-    commit: 479
+    commit: 480
   last360d:
     since: 2025-09-08
     release: 46
-    mergedPR: 608
-    openPR: 93
-    closedIssue: 198
+    mergedPR: 609
+    openPR: 95
+    closedIssue: 200
     openIssue: 106
-    commit: 687
+    commit: 688
