@@ -5,9 +5,9 @@
 - **Upstream**: <https://github.com/atuinsh/atuin>
 - **Homepage**: <https://atuin.sh>
 - **Latest release**: `v18.21.0` (2026-08-31)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-09
 - **License**: MIT
-- **Stars**: 31565 · **Forks**: 959 · **Open issues**: 1393 · **Contributors**: 334
+- **Stars**: 31568 · **Forks**: 959 · **Open issues**: 1394 · **Contributors**: 334
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/atuin> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:29:33Z._
+_Last regenerated: 2026-09-09T06:01:51Z._
