@@ -2,12 +2,12 @@ about:
   description: "✨ Making your shell magical"
   license: MIT
   homepage: https://atuin.sh
-  head: 274781b
+  head: 2db3dd2
   archived: false
   latestVersion: "v18.22.0"
   latestRelease: "v18.22.0"
   latestPrerelease: "v18.20.0-beta.3"
-  collectedAt: 2026-09-10T20:27:08Z
+  collectedAt: 2026-09-10T23:20:15Z
 timeline:
   created: 2020-10-04
   lastCommit: 2026-09-10
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-08-07
 popularity:
-  star: 31582
+  star: 31583
   watcher: 80
   fork: 959
   release: 92
   contributor: 334
-  pullRequest: 2579
+  pullRequest: 2582
   issue: 1395
 language:
-  Rust: 3253750
+  Rust: 3254060
   Shell: 82598
   PowerShell: 11808
   TypeScript: 9633
@@ -35,70 +35,70 @@ language:
   PLpgSQL: 3330
   Tree-sitter Query: 2117
   RenderScript: 2
-totalBytes: 3385333
+totalBytes: 3385643
 recent:
   last30d:
     since: 2026-08-11
     release: 4
-    mergedPR: 114
-    openPR: 29
+    mergedPR: 115
+    openPR: 31
     closedIssue: 18
     openIssue: 13
-    commit: 113
+    commit: 114
   last60d:
     since: 2026-07-12
     release: 16
-    mergedPR: 291
-    openPR: 50
+    mergedPR: 292
+    openPR: 52
     closedIssue: 38
     openIssue: 30
-    commit: 302
+    commit: 303
   last90d:
     since: 2026-06-12
     release: 17
-    mergedPR: 331
-    openPR: 59
+    mergedPR: 332
+    openPR: 61
     closedIssue: 56
     openIssue: 41
-    commit: 367
+    commit: 368
   last180d:
     since: 2026-03-14
     release: 31
-    mergedPR: 453
-    openPR: 70
+    mergedPR: 454
+    openPR: 72
     closedIssue: 121
     openIssue: 66
-    commit: 481
+    commit: 482
   last360d:
     since: 2025-09-15
     release: 47
-    mergedPR: 643
-    openPR: 82
+    mergedPR: 644
+    openPR: 84
     closedIssue: 206
     openIssue: 103
-    commit: 721
+    commit: 722
   last720d:
     since: 2024-09-20
     release: 59
-    mergedPR: 819
-    openPR: 97
+    mergedPR: 820
+    openPR: 99
     closedIssue: 380
     openIssue: 204
-    commit: 923
+    commit: 924
 total:
   release: 92
-  mergedPR: 1960
-  openPR: 106
+  mergedPR: 1961
+  openPR: 108
   closedIssue: 1092
   openIssue: 303
-  commit: 2181
+  commit: 2182
 ---
 path: /home/runner/.x-repo/github.com/atuinsh/atuin
-collectedAt: 2026-09-10T20:27:14Z
+collectedAt: 2026-09-10T23:20:22Z
 loc:
   Rust:
-    code: 72741
-    comments: 3708
+    code: 72744
+    comments: 3709
     blanks: 11290
     files: 379
   Toml:
@@ -202,8 +202,8 @@ loc:
     blanks: 0
     files: 7
 total:
-  code: 80015
-  comments: 16802
+  code: 80018
+  comments: 16803
   blanks: 16177
   files: 590
 ---
