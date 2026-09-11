@@ -7,7 +7,7 @@ about:
   latestVersion: "v18.22.0"
   latestRelease: "v18.22.0"
   latestPrerelease: "v18.20.0-beta.3"
-  collectedAt: 2026-09-11T06:05:44Z
+  collectedAt: 2026-09-11T18:40:31Z
 timeline:
   created: 2020-10-04
   lastCommit: 2026-09-11
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-09
   lastPrerelease: 2026-08-07
 popularity:
-  star: 31586
+  star: 31594
   watcher: 80
   fork: 959
   release: 92
   contributor: 334
-  pullRequest: 2591
+  pullRequest: 2592
   issue: 1396
 language:
   Rust: 3262223
@@ -41,7 +41,7 @@ recent:
     since: 2026-08-12
     release: 4
     mergedPR: 122
-    openPR: 27
+    openPR: 28
     closedIssue: 17
     openIssue: 13
     commit: 123
@@ -49,7 +49,7 @@ recent:
     since: 2026-07-13
     release: 16
     mergedPR: 298
-    openPR: 50
+    openPR: 51
     closedIssue: 38
     openIssue: 31
     commit: 312
@@ -57,7 +57,7 @@ recent:
     since: 2026-06-13
     release: 17
     mergedPR: 341
-    openPR: 59
+    openPR: 60
     closedIssue: 56
     openIssue: 42
     commit: 377
@@ -65,7 +65,7 @@ recent:
     since: 2026-03-15
     release: 30
     mergedPR: 462
-    openPR: 70
+    openPR: 71
     closedIssue: 120
     openIssue: 67
     commit: 491
@@ -73,7 +73,7 @@ recent:
     since: 2025-09-16
     release: 47
     mergedPR: 653
-    openPR: 82
+    openPR: 83
     closedIssue: 206
     openIssue: 103
     commit: 731
@@ -81,20 +81,20 @@ recent:
     since: 2024-09-21
     release: 59
     mergedPR: 827
-    openPR: 97
+    openPR: 98
     closedIssue: 379
     openIssue: 205
     commit: 933
 total:
   release: 92
   mergedPR: 1970
-  openPR: 106
+  openPR: 107
   closedIssue: 1092
   openIssue: 304
   commit: 2191
 ---
 path: /home/runner/.x-repo/github.com/atuinsh/atuin
-collectedAt: 2026-09-11T06:05:53Z
+collectedAt: 2026-09-11T18:40:41Z
 loc:
   Rust:
     code: 72936
