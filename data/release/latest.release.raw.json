@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11974583,
       "digest": "sha256:5e6e525f60147351f114397e7f09aeded87f302e99ef83a5eee74c524b805812",
-      "download_count": 273,
+      "download_count": 349,
       "created_at": "2026-09-09T22:23:13Z",
       "updated_at": "2026-09-09T22:23:13Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15431828,
       "digest": "sha256:591680ad8045f87f2b524a3654232a1e91b4ba7e8d52fe2d18885437a3fc5265",
-      "download_count": 73,
+      "download_count": 101,
       "created_at": "2026-09-09T22:23:12Z",
       "updated_at": "2026-09-09T22:23:14Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-aarch64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 15221906,
       "digest": "sha256:76d12818e3dff64ddac3b9f4ec63b305070ddcf5fc382a2a23dc0826fa9bf5a8",
-      "download_count": 36,
+      "download_count": 52,
       "created_at": "2026-09-09T22:23:12Z",
       "updated_at": "2026-09-09T22:23:13Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-aarch64-unknown-linux-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:410e66d5853a7c9cb1125901d06203d9c8e8c7cc4a99b37bce4932d1a068b0c6",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-09-09T22:23:13Z",
       "updated_at": "2026-09-09T22:23:13Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 21206,
       "digest": "sha256:54be3975b1ab2f3d444ce91adb04eaa3d23ee141e9ef64ebb5c4f3e57a4d913a",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-09T22:23:13Z",
       "updated_at": "2026-09-09T22:23:13Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-installer.ps1"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 55965,
       "digest": "sha256:47b2cfaa0111a462aec0ab1c4f1499e2046bc5c24fb801759c8bfac14d453d03",
-      "download_count": 1034,
+      "download_count": 1286,
       "created_at": "2026-09-09T22:23:13Z",
       "updated_at": "2026-09-09T22:23:14Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-installer.sh"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 56385,
       "digest": "sha256:6923e65dc3c5ae22d024bb6646f62e9de6ebacd05c8b951ec2e7f39e3da1a2b4",
-      "download_count": 18,
+      "download_count": 21,
       "created_at": "2026-09-09T22:23:14Z",
       "updated_at": "2026-09-09T22:23:14Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-server-installer.sh"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5575108,
       "digest": "sha256:8a24c036c8b83c07a2b6e79bc1e9fba3ec4b973f420ac3a82c3b5bf5d1ffd464",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-09-09T22:23:15Z",
       "updated_at": "2026-09-09T22:23:15Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-server-x86_64-pc-windows-msvc.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 7516905,
       "digest": "sha256:5a10064a12b29827f0abfdeca9905ca08088ec0d2a7667fcfbd75838533ded53",
-      "download_count": 23,
+      "download_count": 26,
       "created_at": "2026-09-09T22:23:15Z",
       "updated_at": "2026-09-09T22:23:15Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-server-x86_64-unknown-linux-gnu.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 7636854,
       "digest": "sha256:679f3ac2f2e8e58f9d47f623834af0d979b4277f610a57db715f482b7dcae7e0",
-      "download_count": 33,
+      "download_count": 36,
       "created_at": "2026-09-09T22:23:15Z",
       "updated_at": "2026-09-09T22:23:16Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-server-x86_64-unknown-linux-musl.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 13190547,
       "digest": "sha256:9394aabdbbac39dbb553af7beb8ece195f2105a51f4759142e3fa5febc5b5b91",
-      "download_count": 38,
+      "download_count": 45,
       "created_at": "2026-09-09T22:23:16Z",
       "updated_at": "2026-09-09T22:23:16Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-x86_64-apple-darwin.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 14051653,
       "digest": "sha256:b7848f9fd1445eb9679ab206013eee71ceb82971cbb770cec2a2e999510cb52d",
-      "download_count": 228,
+      "download_count": 268,
       "created_at": "2026-09-09T22:23:16Z",
       "updated_at": "2026-09-09T22:23:16Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-x86_64-pc-windows-msvc.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 16126099,
       "digest": "sha256:920200b8e2ecff88eb8f2c2d4bfc4c62ed1c2f4efca2ba854a23bd157a542328",
-      "download_count": 844,
+      "download_count": 1035,
       "created_at": "2026-09-09T22:23:16Z",
       "updated_at": "2026-09-09T22:23:17Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-x86_64-unknown-linux-gnu.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:a1c1ac68f60415ac539403e3d6d3d80bae8be5ee9ed49c9c5a132fd07b3343bf",
-      "download_count": 17,
+      "download_count": 21,
       "created_at": "2026-09-09T22:23:16Z",
       "updated_at": "2026-09-09T22:23:16Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 16256991,
       "digest": "sha256:b3c123df1887cf27c6480a87d148c86831cd83da478e0a8ab773ca188f3f3222",
-      "download_count": 297,
+      "download_count": 363,
       "created_at": "2026-09-09T22:23:16Z",
       "updated_at": "2026-09-09T22:23:17Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-x86_64-unknown-linux-musl.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:5a0d030995c2bec6251a08fff8eaa84684d3a9377162554655c1928741738e69",
-      "download_count": 45,
+      "download_count": 48,
       "created_at": "2026-09-09T22:23:17Z",
       "updated_at": "2026-09-09T22:23:17Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/atuin-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 3586654,
       "digest": "sha256:46f9d940105791b09d870ca87e8952190dc69f968ea0036502a43840f83a56a0",
-      "download_count": 125,
+      "download_count": 149,
       "created_at": "2026-09-09T22:23:17Z",
       "updated_at": "2026-09-09T22:23:18Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.22.0/source.tar.gz"
