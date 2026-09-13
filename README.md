@@ -38,22 +38,22 @@ Total: **79,130** lines of code across **427** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31,594 · **Forks**: 959 · **Open issues**: 1,396 · **Contributors**: 334
+- **Stars**: 31,604 · **Forks**: 958 · **Open issues**: 1,398 · **Contributors**: 334
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 1970 · **Open PRs**: 107 · **Closed issues**: 1092 · **Open issues**: 304 · **Commits**: 2191
+- **Releases**: 92 · **Merged PRs**: 1970 · **Open PRs**: 121 · **Closed issues**: 1092 · **Open issues**: 306 · **Commits**: 2191
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 4 | 122 | 28 | 17 | 13 | 123 |
-| last60d | 2026-07-13 | 16 | 298 | 51 | 38 | 31 | 312 |
-| 90d | 2026-06-13 | 17 | 341 | 60 | 56 | 42 | 377 |
-| last180d | 2026-03-15 | 30 | 462 | 71 | 120 | 67 | 491 |
-| 360d | 2025-09-16 | 47 | 653 | 83 | 206 | 103 | 731 |
-| last720d | 2024-09-21 | 59 | 827 | 98 | 379 | 205 | 933 |
+| 30d | 2026-08-14 | 4 | 117 | 42 | 17 | 11 | 123 |
+| last60d | 2026-07-15 | 15 | 279 | 65 | 36 | 33 | 312 |
+| 90d | 2026-06-15 | 17 | 341 | 74 | 55 | 44 | 377 |
+| last180d | 2026-03-17 | 30 | 452 | 85 | 116 | 69 | 491 |
+| 360d | 2025-09-18 | 47 | 651 | 97 | 204 | 105 | 731 |
+| last720d | 2024-09-23 | 59 | 827 | 112 | 378 | 207 | 933 |
 
 ## Release assets
 
@@ -98,7 +98,7 @@ Total: **79,130** lines of code across **427** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **163** distros on [repology.org](https://repology.org/project/atuin). **12** are ✅ on the latest upstream release, **135** are ⚠️ on an older version.
+Reported by **163** distros on [repology.org](https://repology.org/project/atuin). **20** are ✅ on the latest upstream release, **127** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -123,4 +123,4 @@ Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:40:50Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:15:47Z._
