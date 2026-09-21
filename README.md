@@ -38,22 +38,22 @@ Total: **89,831** lines of code across **487** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31,745 · **Forks**: 969 · **Open issues**: 1,402 · **Contributors**: 336
+- **Stars**: 31,771 · **Forks**: 971 · **Open issues**: 1,403 · **Contributors**: 336
 
 ## Totals (cumulative)
 
-- **Releases**: 92 · **Merged PRs**: 2019 · **Open PRs**: 107 · **Closed issues**: 1097 · **Open issues**: 305 · **Commits**: 2240
+- **Releases**: 92 · **Merged PRs**: 2019 · **Open PRs**: 109 · **Closed issues**: 1097 · **Open issues**: 306 · **Commits**: 2240
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 4 | 135 | 25 | 14 | 11 | 145 |
-| last60d | 2026-07-22 | 14 | 282 | 51 | 35 | 30 | 314 |
-| 90d | 2026-06-22 | 17 | 384 | 58 | 52 | 43 | 421 |
-| last180d | 2026-03-24 | 28 | 479 | 71 | 102 | 63 | 519 |
-| 360d | 2025-09-25 | 47 | 697 | 84 | 203 | 105 | 780 |
-| last720d | 2024-09-30 | 59 | 875 | 98 | 381 | 205 | 982 |
+| 30d | 2026-08-22 | 4 | 134 | 27 | 14 | 11 | 116 |
+| last60d | 2026-07-23 | 13 | 270 | 53 | 35 | 31 | 249 |
+| 90d | 2026-06-23 | 17 | 383 | 60 | 52 | 44 | 416 |
+| last180d | 2026-03-25 | 27 | 477 | 73 | 101 | 64 | 505 |
+| 360d | 2025-09-26 | 47 | 697 | 86 | 203 | 106 | 774 |
+| last720d | 2024-10-01 | 59 | 874 | 100 | 381 | 206 | 982 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:11:49Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:27:15Z._
