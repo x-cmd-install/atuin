@@ -4,7 +4,7 @@
 
 ✨ Making your shell magical
 
-[![x-cmd/install — atuin Code Quality Monitoring Repo Card](https://repo.x-cmd.io/atuin.svg)](https://x-cmd.com/install/atuin)
+[![x-cmd/install — atuin Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/atuin.svg)](https://x-cmd.com/install/atuin)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install atuin
 
 ## Code insight
 
-Total: **85,894** lines of code across **472** files in the top 5 languages.
+Total: **87,032** lines of code across **473** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 79,632 | 3,980 | 12,233 | 424 |
-| Toml | 1,453 | 535 | 235 | 36 |
+| Rust | 80,416 | 3,991 | 12,333 | 424 |
+| Toml | 1,465 | 537 | 236 | 37 |
 | Sh | 1,044 | 304 | 251 | 6 |
 | Css | 521 | 0 | 75 | 2 |
 | Yaml | 480 | 0 | 3 | 4 |
@@ -33,27 +33,27 @@ Total: **85,894** lines of code across **472** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v18.23.0` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 31,779 · **Forks**: 969 · **Open issues**: 1,405 · **Contributors**: 336
+- **Stars**: 31,785 · **Forks**: 971 · **Open issues**: 1,405 · **Contributors**: 339
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 2036 · **Open PRs**: 111 · **Closed issues**: 1102 · **Open issues**: 303 · **Commits**: 2254
+- **Releases**: 93 · **Merged PRs**: 2059 · **Open PRs**: 81 · **Closed issues**: 1106 · **Open issues**: 299 · **Commits**: 2267
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 150 | 30 | 16 | 11 | 130 |
-| last60d | 2026-07-24 | 14 | 278 | 55 | 37 | 31 | 263 |
-| 90d | 2026-06-24 | 18 | 400 | 62 | 54 | 44 | 430 |
-| last180d | 2026-03-26 | 28 | 491 | 75 | 102 | 64 | 519 |
-| 360d | 2025-09-27 | 48 | 713 | 88 | 204 | 106 | 788 |
-| last720d | 2024-10-02 | 60 | 890 | 102 | 384 | 204 | 996 |
+| 30d | 2026-08-24 | 5 | 169 | 22 | 18 | 7 | 143 |
+| last60d | 2026-07-25 | 14 | 295 | 46 | 40 | 28 | 276 |
+| 90d | 2026-06-25 | 18 | 420 | 53 | 57 | 41 | 443 |
+| last180d | 2026-03-27 | 28 | 510 | 63 | 105 | 61 | 532 |
+| 360d | 2025-09-28 | 48 | 734 | 73 | 206 | 103 | 801 |
+| last720d | 2024-10-03 | 60 | 911 | 81 | 387 | 200 | 1009 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:19:50Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:29:57Z._
