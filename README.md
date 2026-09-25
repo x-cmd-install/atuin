@@ -14,12 +14,12 @@ x install atuin
 
 ## Code insight
 
-Total: **87,180** lines of code across **476** files in the top 5 languages.
+Total: **88,127** lines of code across **479** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 80,564 | 3,997 | 12,359 | 427 |
-| Toml | 1,465 | 537 | 236 | 37 |
+| Rust | 81,500 | 4,017 | 12,519 | 430 |
+| Toml | 1,468 | 537 | 236 | 37 |
 | Sh | 1,044 | 304 | 251 | 6 |
 | Css | 521 | 0 | 75 | 2 |
 | Yaml | 480 | 0 | 3 | 4 |
@@ -38,22 +38,22 @@ Total: **87,180** lines of code across **476** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 31,791 · **Forks**: 972 · **Open issues**: 1,407 · **Contributors**: 339
+- **Stars**: 31,800 · **Forks**: 973 · **Open issues**: 1,411 · **Contributors**: 340
 
 ## Totals (cumulative)
 
-- **Releases**: 93 · **Merged PRs**: 2066 · **Open PRs**: 84 · **Closed issues**: 1106 · **Open issues**: 301 · **Commits**: 2269
+- **Releases**: 93 · **Merged PRs**: 2073 · **Open PRs**: 84 · **Closed issues**: 1108 · **Open issues**: 303 · **Commits**: 2271
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 5 | 168 | 24 | 16 | 9 | 145 |
-| last60d | 2026-07-26 | 14 | 302 | 49 | 40 | 30 | 278 |
-| 90d | 2026-06-26 | 18 | 426 | 56 | 57 | 42 | 445 |
-| last180d | 2026-03-28 | 27 | 516 | 66 | 104 | 63 | 534 |
-| 360d | 2025-09-29 | 48 | 741 | 76 | 206 | 104 | 803 |
-| last720d | 2024-10-04 | 60 | 916 | 84 | 387 | 202 | 1005 |
+| 30d | 2026-08-26 | 4 | 167 | 24 | 17 | 11 | 147 |
+| last60d | 2026-07-27 | 14 | 299 | 48 | 39 | 32 | 280 |
+| 90d | 2026-06-27 | 18 | 432 | 56 | 59 | 44 | 447 |
+| last180d | 2026-03-29 | 27 | 522 | 66 | 105 | 65 | 536 |
+| 360d | 2025-09-30 | 48 | 747 | 76 | 208 | 106 | 805 |
+| last720d | 2024-10-05 | 60 | 923 | 84 | 389 | 203 | 1007 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:47:31Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:03:26Z._
