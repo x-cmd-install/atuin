@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 15929248,
       "digest": "sha256:ba155cb61385e424c972ba5cadab68add2c6ad0d4f842365fc958d7a5f5917d5",
-      "download_count": 1100,
+      "download_count": 1299,
       "created_at": "2026-10-22T10:07:17Z",
       "updated_at": "2026-10-22T10:07:18Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:5173bba17640ba559c580e65e64075ce94db038414406d25ff8158de261ccd46",
-      "download_count": 56,
+      "download_count": 69,
       "created_at": "2026-10-22T10:07:17Z",
       "updated_at": "2026-10-22T10:07:17Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-apple-darwin.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 19354742,
       "digest": "sha256:5ec6cc8bd3889b616970cc1fa1ede46b5608da693a0bb81c04fbb48ed63967ab",
-      "download_count": 436,
+      "download_count": 544,
       "created_at": "2026-10-22T10:07:17Z",
       "updated_at": "2026-10-22T10:07:18Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:fed1ad37d9f14c6f3199bb5593eb5494e121f64abc389c2fc051dfaaff78dabf",
-      "download_count": 32,
+      "download_count": 40,
       "created_at": "2026-10-22T10:07:17Z",
       "updated_at": "2026-10-22T10:07:17Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-gnu.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 19129327,
       "digest": "sha256:9addf06ece26e68e842489cefa33e81860c288da373538986ea58c23eccb4f14",
-      "download_count": 310,
+      "download_count": 443,
       "created_at": "2026-10-22T10:07:17Z",
       "updated_at": "2026-10-22T10:07:18Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:8d8c033bd8a5d266f83feff0c3ed2bbcd8cbeae06732935d2b3445d6ca81581c",
-      "download_count": 56,
+      "download_count": 89,
       "created_at": "2026-10-22T10:07:18Z",
       "updated_at": "2026-10-22T10:07:18Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 21206,
       "digest": "sha256:f2f5860452a99e54e97cf745e8fcd1673db67b471e0fa619093fbfe01d13044d",
-      "download_count": 17,
+      "download_count": 20,
       "created_at": "2026-10-22T10:07:18Z",
       "updated_at": "2026-10-22T10:07:18Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-installer.ps1"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 55965,
       "digest": "sha256:682117ada10ef0886fa4974f1afcf5fb396ce466c45acaffbf075eeb06f6dc25",
-      "download_count": 3904,
+      "download_count": 4687,
       "created_at": "2026-10-22T10:07:18Z",
       "updated_at": "2026-10-22T10:07:18Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-installer.sh"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4882629,
       "digest": "sha256:327e7fc9422eedc9a02912173ddf7e3107e569b6e4e1f7339beaaa08e7a6ed38",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-10-22T10:07:18Z",
       "updated_at": "2026-10-22T10:07:19Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-apple-darwin.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:4d2a3b767f45cc206eefedf781e9599b7762b4966dc940eb0ab86609695f6c51",
-      "download_count": 20,
+      "download_count": 28,
       "created_at": "2026-10-22T10:07:18Z",
       "updated_at": "2026-10-22T10:07:19Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-apple-darwin.tar.gz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 7663215,
       "digest": "sha256:d83837d03da36047275d2742f24c18148076978f578eb7ba5b282e0a835cdb12",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-10-22T10:07:19Z",
       "updated_at": "2026-10-22T10:07:19Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-gnu.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": "sha256:a85dd3688aa52323e051f4461afb465c44bf8268cb3c83800e54a84f41ee0c01",
-      "download_count": 19,
+      "download_count": 26,
       "created_at": "2026-10-22T10:07:19Z",
       "updated_at": "2026-10-22T10:07:19Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-gnu.tar.gz.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7548094,
       "digest": "sha256:130ff5b344a854b9e079ad368f7e53334104a1c04fec3ddc6a0173bbe12f5c96",
-      "download_count": 24,
+      "download_count": 31,
       "created_at": "2026-10-22T10:07:19Z",
       "updated_at": "2026-10-22T10:07:20Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-musl.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 114,
       "digest": "sha256:7192e19ec124aaece52a0afc3afad52f3a0196b47a880d4546577c61714c6e78",
-      "download_count": 18,
+      "download_count": 27,
       "created_at": "2026-10-22T10:07:19Z",
       "updated_at": "2026-10-22T10:07:19Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 21388,
       "digest": "sha256:7eb2bca042f81abc97f57ee2b865510bccdefbedcb09c54377161574526cb9b3",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-10-22T10:07:19Z",
       "updated_at": "2026-10-22T10:07:19Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-installer.ps1"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 56385,
       "digest": "sha256:d0afdc663e13d259a458e26a79eab2a59aa9e31863ebd0d9c426961f9e6ab359",
-      "download_count": 20,
+      "download_count": 23,
       "created_at": "2026-10-22T10:07:19Z",
       "updated_at": "2026-10-22T10:07:19Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-installer.sh"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5204548,
       "digest": "sha256:ecd10420eff0348390a400942cdb1b88ec41fdf6213b80ac9115fbada07b4be6",
-      "download_count": 15,
+      "download_count": 21,
       "created_at": "2026-10-22T10:07:19Z",
       "updated_at": "2026-10-22T10:07:20Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-apple-darwin.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:6fa215e9291c661566206e38fd8b61f2f76b64c038a97b429a7b10f53ca50557",
-      "download_count": 18,
+      "download_count": 25,
       "created_at": "2026-10-22T10:07:20Z",
       "updated_at": "2026-10-22T10:07:20Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-apple-darwin.tar.gz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5602279,
       "digest": "sha256:b879645449833176f2c4dc1f02aa6b05dee72ab70f37f86d268aeacaf6815a79",
-      "download_count": 14,
+      "download_count": 19,
       "created_at": "2026-10-22T10:07:20Z",
       "updated_at": "2026-10-22T10:07:20Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-pc-windows-msvc.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:9d0a7023aefbae9d1a7d27a8120dd36368d75c7eac5f5157fedb7151f1b257b0",
-      "download_count": 18,
+      "download_count": 25,
       "created_at": "2026-10-22T10:07:20Z",
       "updated_at": "2026-10-22T10:07:20Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-pc-windows-msvc.zip.sha256"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 7539179,
       "digest": "sha256:36b9cb5581396d0dbed316be406cbd4028f0e4834d7a15b29293c8c0f999ad1d",
-      "download_count": 180,
+      "download_count": 190,
       "created_at": "2026-10-22T10:07:20Z",
       "updated_at": "2026-10-22T10:07:21Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-gnu.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:97ab3ad5e9e9ba7e62c68015b833533157d5bfa4b1e0753276a6745adece46c0",
-      "download_count": 157,
+      "download_count": 164,
       "created_at": "2026-10-22T10:07:20Z",
       "updated_at": "2026-10-22T10:07:21Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 7655124,
       "digest": "sha256:41a08a06cd66fd68ce7dc289a0bd9f99a73b315ac48329d7f646e65e39b91182",
-      "download_count": 52,
+      "download_count": 63,
       "created_at": "2026-10-22T10:07:20Z",
       "updated_at": "2026-10-22T10:07:21Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-musl.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": "sha256:12f7560f9a014488309eae4863188cf52f5115b2baefd1da20bd4ca3ac601633",
-      "download_count": 21,
+      "download_count": 30,
       "created_at": "2026-10-22T10:07:20Z",
       "updated_at": "2026-10-22T10:07:21Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 17323517,
       "digest": "sha256:43cae243768e15576730c17995264ced8c4c4cd8bf7052bd50ca6793f58d4b05",
-      "download_count": 88,
+      "download_count": 127,
       "created_at": "2026-10-22T10:07:21Z",
       "updated_at": "2026-10-22T10:07:22Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-apple-darwin.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:77ba0c2d18e69422fb9bb1858020ffe57167ed45c5a42dffa717940eaaa2c6b6",
-      "download_count": 22,
+      "download_count": 29,
       "created_at": "2026-10-22T10:07:21Z",
       "updated_at": "2026-10-22T10:07:21Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-apple-darwin.tar.gz.sha256"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 18663825,
       "digest": "sha256:ff7b211112783ca05f4e3bbc8dc69593791982668750f46bb83f7148e357e102",
-      "download_count": 1044,
+      "download_count": 1304,
       "created_at": "2026-10-22T10:07:21Z",
       "updated_at": "2026-10-22T10:07:23Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-pc-windows-msvc.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:b4b047956b047a3e369fa2c3d52fda2e1c8e400a2cbff8b6490338ed03c090d4",
-      "download_count": 34,
+      "download_count": 41,
       "created_at": "2026-10-22T10:07:21Z",
       "updated_at": "2026-10-22T10:07:22Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-pc-windows-msvc.zip.sha256"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 20222271,
       "digest": "sha256:005a4953f2fe96d4506fee7d926de73ec8cf64c89b2a07acd39bfa4fd88c0449",
-      "download_count": 2870,
+      "download_count": 3502,
       "created_at": "2026-10-22T10:07:21Z",
       "updated_at": "2026-10-22T10:07:22Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-gnu.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:fd7e06cc3fa021e891935ed6164d806f0f04e667397afcdabc7ec7d01c912d01",
-      "download_count": 198,
+      "download_count": 214,
       "created_at": "2026-10-22T10:07:21Z",
       "updated_at": "2026-10-22T10:07:22Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 20351592,
       "digest": "sha256:311cd1ba4b8be27de7071dbcae1c95ff4c2b38aeec82d557707b6b832bfceddf",
-      "download_count": 932,
+      "download_count": 1321,
       "created_at": "2026-10-22T10:07:22Z",
       "updated_at": "2026-10-22T10:07:23Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-musl.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:06ce9dbfa14a76baab4562e2c7fb06c83ccec6dae2e0deeeffac36c1654549cd",
-      "download_count": 154,
+      "download_count": 204,
       "created_at": "2026-10-22T10:07:22Z",
       "updated_at": "2026-10-22T10:07:22Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-musl.tar.gz.sha256"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 64642,
       "digest": "sha256:c5e59e7ebea6081e3e51031c331fcd26dc5eb2d827ee626e82d88afe833a2ff9",
-      "download_count": 814,
+      "download_count": 1101,
       "created_at": "2026-10-22T10:07:22Z",
       "updated_at": "2026-10-22T10:07:22Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/dist-manifest.json"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 1566,
       "digest": "sha256:15a1d22efec02894300bb906fe09111bb19f47e9204fdf18d36e1113d47e084d",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-10-22T10:07:23Z",
       "updated_at": "2026-10-22T10:07:23Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/sha256.sum"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 4954608,
       "digest": "sha256:1b52539da5d55962dc284fa10a78cf5dccc2961fd32af6812bf3d5969f632d9e",
-      "download_count": 180,
+      "download_count": 220,
       "created_at": "2026-10-22T10:07:23Z",
       "updated_at": "2026-10-22T10:07:23Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/source.tar.gz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:56f4b4a81a1af4808ca7f35328ff158188dda26c99819285d93ad66cf5eb832b",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-22T10:07:23Z",
       "updated_at": "2026-10-22T10:07:23Z",
       "browser_download_url": "https://github.com/atuinsh/atuin/releases/download/v18.24.2/source.tar.gz.sha256"
@@ -1335,5 +1335,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/atuinsh/atuin/tarball/v18.24.2",
   "zipball_url": "https://api.github.com/repos/atuinsh/atuin/zipball/v18.24.2",
-  "body": "> [!WARNING]\r\n>\r\n> **Do not use the Docker container associated with this release. The old container uses stale `ca-certificates`, which include [vulnerable certificates](https://emudhra.we-have-a-problem.com/)**\r\n>\r\n> Please use [`18.24.2-1`](https://github.com/atuinsh/atuin/pkgs/container/atuin/1431421495?tag=18.24.2-1).\r\n\r\n## Release Notes\r\n\r\n### Bug Fixes\r\n\r\n- *(ai)* Import IntoStaticStr from strum_macros, not strum ([#4480](https://github.com/atuinsh/atuin/issues/4480))\r\n- *(ai)* Improve detection of git repositories ([#4450](https://github.com/atuinsh/atuin/issues/4450))\r\n- *(client)* Resolve relative config paths beside config.toml, not the cwd ([#4479](https://github.com/atuinsh/atuin/issues/4479))\r\n- *(config)* Don't print errors twice ([#4501](https://github.com/atuinsh/atuin/issues/4501))\r\n- *(daemon)* Fetch the server's capabilities until a fetch succeeds\r\n- *(daemon)* Spare a stale pidfile's PID when evicting ([#4512](https://github.com/atuinsh/atuin/issues/4512))\r\n- *(daemon)* Handle daemons not spawned by atuin ([#4516](https://github.com/atuinsh/atuin/issues/4516))\r\n- *(output)* Keep quoted words together in output search ([#4502](https://github.com/atuinsh/atuin/issues/4502))\r\n- *(packfile)* Load only the records inside a manifest's range\r\n- *(pty-proxy)* Standalone init with `atuin pty-proxy init` ([#4449](https://github.com/atuinsh/atuin/issues/4449))\r\n- *(pty-proxy)* Wait for input on a non-blocking inherited stdin ([#4486](https://github.com/atuinsh/atuin/issues/4486))\r\n- *(pty-proxy)* Don't re-exec shells running commands from a string or file ([#4414](https://github.com/atuinsh/atuin/issues/4414))\r\n- *(search)* Don't panic when copying with no results ([#4426](https://github.com/atuinsh/atuin/issues/4426))\r\n- *(server)* Let `ATUIN_*` environment variables override server.toml ([#4456](https://github.com/atuinsh/atuin/issues/4456))\r\n- *(update)* Accept ATUIN_GITHUB_TOKEN ([#4262](https://github.com/atuinsh/atuin/issues/4262))\r\n- Remove duplicated word in the no-history stats message ([#4451](https://github.com/atuinsh/atuin/issues/4451))\r\n- Error printing in `?` handler ([#4448](https://github.com/atuinsh/atuin/issues/4448))\r\n- Normalize relative gitdir paths in worktree resolution ([#4506](https://github.com/atuinsh/atuin/issues/4506))\r\n- Upgrade regressions found in release QA ([#4519](https://github.com/atuinsh/atuin/issues/4519))\r\n\r\n\r\n### Documentation\r\n\r\n- Fix ctrl_n_shortcuts default value ([#4458](https://github.com/atuinsh/atuin/issues/4458))\r\n- List all history list --format variables ([#4460](https://github.com/atuinsh/atuin/issues/4460))\r\n- Fix the --reverse default for history list ([#4472](https://github.com/atuinsh/atuin/issues/4472))\r\n- Mention December default in wrapped --year help ([#4476](https://github.com/atuinsh/atuin/issues/4476))\r\n\r\n\r\n### Features\r\n\r\n- *(common)* AbsPath and AbsPathBuf, Path and PathBuf checked to be absolute ([#4481](https://github.com/atuinsh/atuin/issues/4481))\r\n- *(common)* Find a process's cgroup under cgroup v1 and v2 ([#4513](https://github.com/atuinsh/atuin/issues/4513))\r\n- *(daemon)* Run the daemon as a launchd agent on macOS ([#4517](https://github.com/atuinsh/atuin/issues/4517))\r\n- *(pty-proxy)* Window title follows child process ([#4447](https://github.com/atuinsh/atuin/issues/4447))\r\n- *(secrets)* Keep HashiCorp tokens out of history ([#4445](https://github.com/atuinsh/atuin/issues/4445))\r\n\r\n\r\n### Miscellaneous Tasks\r\n\r\n- Give mono its own nixfmt step and scope atuin's to atuin/\r\n- Say a /merge's landed commit gets CI on main\r\n- Rebuild the apt .deb cache for Ubuntu 24.04 ([#4504](https://github.com/atuinsh/atuin/issues/4504))\r\n- Remove the benchmarks ([#4511](https://github.com/atuinsh/atuin/issues/4511))\r\n\r\n\r\n### Performance\r\n\r\n- *(common)* Compile the vendor regexes once ([#4485](https://github.com/atuinsh/atuin/issues/4485))\r\n- *(common)* Drop the tree watcher's file-id cache ([#4492](https://github.com/atuinsh/atuin/issues/4492))\r\n- *(common)* Release a line reader's buffer at the end of the file ([#4494](https://github.com/atuinsh/atuin/issues/4494))\r\n- *(common)* Keep no tree watcher entry for a rejected file ([#4493](https://github.com/atuinsh/atuin/issues/4493))\r\n- *(daemon)* Warm up only a resumed session's unanswered calls ([#4490](https://github.com/atuinsh/atuin/issues/4490))\r\n- *(packfile)* Compress packs in one shot ([#4484](https://github.com/atuinsh/atuin/issues/4484))\r\n\r\n\r\n### Refactor\r\n\r\n- *(daemon)* Managed daemon service with multiple backends ([#4488](https://github.com/atuinsh/atuin/issues/4488))\r\n- *(daemon)* Move daemon startup into the service module ([#4503](https://github.com/atuinsh/atuin/issues/4503))\r\n- *(daemon)* Keep where the daemon listens behind service::address ([#4514](https://github.com/atuinsh/atuin/issues/4514))\r\n- *(daemon)* Take up the daemon's socket in SocketHolder, not Backend ([#4515](https://github.com/atuinsh/atuin/issues/4515))\r\n- *(deps)* Bump clap_complete_nushell from 4.6.0 to 4.6.2 ([#4473](https://github.com/atuinsh/atuin/issues/4473))\r\n- *(deps)* Bump clap_complete from 4.6.9 to 4.6.11 ([#4396](https://github.com/atuinsh/atuin/issues/4396))\r\n- *(deps)* Bump ratatui from 0.30.0 to 0.30.2 ([#4474](https://github.com/atuinsh/atuin/issues/4474))\r\n- *(deps)* Bump certifi from 2025.11.12 to 2026.10.19 in /docs in the uv group across 1 directory ([#4500](https://github.com/atuinsh/atuin/issues/4500))\r\n- *(pty-proxy)* Run on tokio with the parser on its own runtime ([#4482](https://github.com/atuinsh/atuin/issues/4482))\r\n- *(pty-proxy)* Forward captures to the daemon on the proxy's runtime ([#4487](https://github.com/atuinsh/atuin/issues/4487))\r\n- *(pty-proxy)* Rename the screen's parser to Emulator ([#4510](https://github.com/atuinsh/atuin/issues/4510))\r\n- *(pty-proxy)* Migrate output parsing to vte ([#4518](https://github.com/atuinsh/atuin/issues/4518))\r\n\r\n\r\n### Testing\r\n\r\n- *(daemon)* Run the output index tests under rstest ([#4496](https://github.com/atuinsh/atuin/issues/4496))\r\n\r\n# atuin 18.24.2\r\n\r\n## Install atuin 18.24.2\r\n\r\n### Install prebuilt binaries via shell script\r\n\r\n```sh\r\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-installer.sh | sh\r\n```\r\n\r\n### Install prebuilt binaries via powershell script\r\n\r\n```sh\r\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-installer.ps1 | iex\"\r\n```\r\n\r\n## Download atuin 18.24.2\r\n\r\n|  File  | Platform | Checksum |\r\n|--------|----------|----------|\r\n| [atuin-aarch64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-apple-darwin.tar.gz) | Apple Silicon macOS | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-apple-darwin.tar.gz.sha256) |\r\n| [atuin-x86_64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-apple-darwin.tar.gz) | Intel macOS | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-apple-darwin.tar.gz.sha256) |\r\n| [atuin-x86_64-pc-windows-msvc.zip](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-pc-windows-msvc.zip.sha256) |\r\n| [atuin-aarch64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-gnu.tar.gz) | ARM64 Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-gnu.tar.gz.sha256) |\r\n| [atuin-x86_64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-gnu.tar.gz) | x64 Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-gnu.tar.gz.sha256) |\r\n| [atuin-aarch64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-musl.tar.gz) | ARM64 MUSL Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-musl.tar.gz.sha256) |\r\n| [atuin-x86_64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-musl.tar.gz) | x64 MUSL Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-musl.tar.gz.sha256) |\r\n\r\n## Verifying GitHub Artifact Attestations\r\n\r\nThe artifacts in this release have attestations generated with GitHub Artifact Attestations. These can be verified by using the [GitHub CLI](https://cli.github.com/manual/gh_attestation_verify):\r\n```sh\r\ngh attestation verify <file-path of downloaded artifact> --repo atuinsh/atuin\r\n```\r\n\r\nYou can also download the attestation from [GitHub](https://github.com/atuinsh/atuin/attestations) and verify against that directly:\r\n```sh\r\ngh attestation verify <file-path of downloaded artifact> --bundle <file-path of downloaded attestation>\r\n```\r\n\r\n# atuin-server 18.24.2\r\n\r\n## Install atuin-server 18.24.2\r\n\r\n### Install prebuilt binaries via shell script\r\n\r\n```sh\r\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-installer.sh | sh\r\n```\r\n\r\n### Install prebuilt binaries via powershell script\r\n\r\n```sh\r\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-installer.ps1 | iex\"\r\n```\r\n\r\n## Download atuin-server 18.24.2\r\n\r\n|  File  | Platform | Checksum |\r\n|--------|----------|----------|\r\n| [atuin-server-aarch64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-apple-darwin.tar.gz) | Apple Silicon macOS | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-apple-darwin.tar.gz.sha256) |\r\n| [atuin-server-x86_64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-apple-darwin.tar.gz) | Intel macOS | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-apple-darwin.tar.gz.sha256) |\r\n| [atuin-server-x86_64-pc-windows-msvc.zip](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-pc-windows-msvc.zip.sha256) |\r\n| [atuin-server-aarch64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-gnu.tar.gz) | ARM64 Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-gnu.tar.gz.sha256) |\r\n| [atuin-server-x86_64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-gnu.tar.gz) | x64 Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-gnu.tar.gz.sha256) |\r\n| [atuin-server-aarch64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-musl.tar.gz) | ARM64 MUSL Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-musl.tar.gz.sha256) |\r\n| [atuin-server-x86_64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-musl.tar.gz) | x64 MUSL Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-musl.tar.gz.sha256) |\r\n\r\n## Verifying GitHub Artifact Attestations\r\n\r\nThe artifacts in this release have attestations generated with GitHub Artifact Attestations. These can be verified by using the [GitHub CLI](https://cli.github.com/manual/gh_attestation_verify):\r\n```sh\r\ngh attestation verify <file-path of downloaded artifact> --repo atuinsh/atuin\r\n```\r\n\r\nYou can also download the attestation from [GitHub](https://github.com/atuinsh/atuin/attestations) and verify against that directly:\r\n```sh\r\ngh attestation verify <file-path of downloaded artifact> --bundle <file-path of downloaded attestation>\r\n```\r\n\r\n\r\n"
+  "body": "> [!WARNING]\r\n>\r\n> **Do not use the Docker container associated with this release. The old container uses stale `ca-certificates`, which include [vulnerable certificates](https://emudhra.we-have-a-problem.com/)**\r\n>\r\n> Please use [`18.24.2-1`](https://github.com/atuinsh/atuin/pkgs/container/atuin/1431421495?tag=18.24.2-1).\r\n\r\n## Release Notes\r\n\r\n### Bug Fixes\r\n\r\n- *(ai)* Import IntoStaticStr from strum_macros, not strum ([#4480](https://github.com/atuinsh/atuin/issues/4480))\r\n- *(ai)* Improve detection of git repositories ([#4450](https://github.com/atuinsh/atuin/issues/4450))\r\n- *(client)* Resolve relative config paths beside config.toml, not the cwd ([#4479](https://github.com/atuinsh/atuin/issues/4479))\r\n- *(config)* Don't print errors twice ([#4501](https://github.com/atuinsh/atuin/issues/4501))\r\n- *(daemon)* Fetch the server's capabilities until a fetch succeeds\r\n- *(daemon)* Spare a stale pidfile's PID when evicting ([#4512](https://github.com/atuinsh/atuin/issues/4512))\r\n- *(daemon)* Handle daemons not spawned by atuin ([#4516](https://github.com/atuinsh/atuin/issues/4516))\r\n- *(output)* Keep quoted words together in output search ([#4502](https://github.com/atuinsh/atuin/issues/4502))\r\n- *(packfile)* Load only the records inside a manifest's range\r\n- *(pty-proxy)* Standalone init with `atuin pty-proxy init` ([#4449](https://github.com/atuinsh/atuin/issues/4449))\r\n- *(pty-proxy)* Wait for input on a non-blocking inherited stdin ([#4486](https://github.com/atuinsh/atuin/issues/4486))\r\n- *(pty-proxy)* Don't re-exec shells running commands from a string or file ([#4414](https://github.com/atuinsh/atuin/issues/4414))\r\n- *(search)* Don't panic when copying with no results ([#4426](https://github.com/atuinsh/atuin/issues/4426))\r\n- *(server)* Let `ATUIN_*` environment variables override server.toml ([#4456](https://github.com/atuinsh/atuin/issues/4456))\r\n- *(update)* Accept ATUIN_GITHUB_TOKEN ([#4262](https://github.com/atuinsh/atuin/issues/4262))\r\n- Remove duplicated word in the no-history stats message ([#4451](https://github.com/atuinsh/atuin/issues/4451))\r\n- Error printing in `?` handler ([#4448](https://github.com/atuinsh/atuin/issues/4448))\r\n- Normalize relative gitdir paths in worktree resolution ([#4506](https://github.com/atuinsh/atuin/issues/4506))\r\n- Upgrade regressions found in release QA ([#4519](https://github.com/atuinsh/atuin/issues/4519))\r\n\r\n\r\n### Documentation\r\n\r\n- Fix ctrl_n_shortcuts default value ([#4458](https://github.com/atuinsh/atuin/issues/4458))\r\n- List all history list --format variables ([#4460](https://github.com/atuinsh/atuin/issues/4460))\r\n- Fix the --reverse default for history list ([#4472](https://github.com/atuinsh/atuin/issues/4472))\r\n- Mention December default in wrapped --year help ([#4476](https://github.com/atuinsh/atuin/issues/4476))\r\n\r\n\r\n### Features\r\n\r\n- *(common)* AbsPath and AbsPathBuf, Path and PathBuf checked to be absolute ([#4481](https://github.com/atuinsh/atuin/issues/4481))\r\n- *(common)* Find a process's cgroup under cgroup v1 and v2 ([#4513](https://github.com/atuinsh/atuin/issues/4513))\r\n- *(daemon)* Run the daemon as a launchd agent on macOS ([#4517](https://github.com/atuinsh/atuin/issues/4517))\r\n- *(pty-proxy)* Window title follows child process ([#4447](https://github.com/atuinsh/atuin/issues/4447))\r\n- *(secrets)* Keep HashiCorp tokens out of history ([#4445](https://github.com/atuinsh/atuin/issues/4445))\r\n\r\n\r\n### Miscellaneous Tasks\r\n\r\n- Give mono its own nixfmt step and scope atuin's to atuin/\r\n- Say a /merge's landed commit gets CI on main\r\n- Rebuild the apt .deb cache for Ubuntu 24.04 ([#4504](https://github.com/atuinsh/atuin/issues/4504))\r\n- Remove the benchmarks ([#4511](https://github.com/atuinsh/atuin/issues/4511))\r\n\r\n\r\n### Performance\r\n\r\n- *(common)* Compile the vendor regexes once ([#4485](https://github.com/atuinsh/atuin/issues/4485))\r\n- *(common)* Drop the tree watcher's file-id cache ([#4492](https://github.com/atuinsh/atuin/issues/4492))\r\n- *(common)* Release a line reader's buffer at the end of the file ([#4494](https://github.com/atuinsh/atuin/issues/4494))\r\n- *(common)* Keep no tree watcher entry for a rejected file ([#4493](https://github.com/atuinsh/atuin/issues/4493))\r\n- *(daemon)* Warm up only a resumed session's unanswered calls ([#4490](https://github.com/atuinsh/atuin/issues/4490))\r\n- *(packfile)* Compress packs in one shot ([#4484](https://github.com/atuinsh/atuin/issues/4484))\r\n\r\n\r\n### Refactor\r\n\r\n- *(daemon)* Managed daemon service with multiple backends ([#4488](https://github.com/atuinsh/atuin/issues/4488))\r\n- *(daemon)* Move daemon startup into the service module ([#4503](https://github.com/atuinsh/atuin/issues/4503))\r\n- *(daemon)* Keep where the daemon listens behind service::address ([#4514](https://github.com/atuinsh/atuin/issues/4514))\r\n- *(daemon)* Take up the daemon's socket in SocketHolder, not Backend ([#4515](https://github.com/atuinsh/atuin/issues/4515))\r\n- *(deps)* Bump clap_complete_nushell from 4.6.0 to 4.6.2 ([#4473](https://github.com/atuinsh/atuin/issues/4473))\r\n- *(deps)* Bump clap_complete from 4.6.9 to 4.6.11 ([#4396](https://github.com/atuinsh/atuin/issues/4396))\r\n- *(deps)* Bump ratatui from 0.30.0 to 0.30.2 ([#4474](https://github.com/atuinsh/atuin/issues/4474))\r\n- *(deps)* Bump certifi from 2025.11.12 to 2026.10.19 in /docs in the uv group across 1 directory ([#4500](https://github.com/atuinsh/atuin/issues/4500))\r\n- *(pty-proxy)* Run on tokio with the parser on its own runtime ([#4482](https://github.com/atuinsh/atuin/issues/4482))\r\n- *(pty-proxy)* Forward captures to the daemon on the proxy's runtime ([#4487](https://github.com/atuinsh/atuin/issues/4487))\r\n- *(pty-proxy)* Rename the screen's parser to Emulator ([#4510](https://github.com/atuinsh/atuin/issues/4510))\r\n- *(pty-proxy)* Migrate output parsing to vte ([#4518](https://github.com/atuinsh/atuin/issues/4518))\r\n\r\n\r\n### Testing\r\n\r\n- *(daemon)* Run the output index tests under rstest ([#4496](https://github.com/atuinsh/atuin/issues/4496))\r\n\r\n# atuin 18.24.2\r\n\r\n## Install atuin 18.24.2\r\n\r\n### Install prebuilt binaries via shell script\r\n\r\n```sh\r\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-installer.sh | sh\r\n```\r\n\r\n### Install prebuilt binaries via powershell script\r\n\r\n```sh\r\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-installer.ps1 | iex\"\r\n```\r\n\r\n## Download atuin 18.24.2\r\n\r\n|  File  | Platform | Checksum |\r\n|--------|----------|----------|\r\n| [atuin-aarch64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-apple-darwin.tar.gz) | Apple Silicon macOS | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-apple-darwin.tar.gz.sha256) |\r\n| [atuin-x86_64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-apple-darwin.tar.gz) | Intel macOS | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-apple-darwin.tar.gz.sha256) |\r\n| [atuin-x86_64-pc-windows-msvc.zip](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-pc-windows-msvc.zip.sha256) |\r\n| [atuin-aarch64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-gnu.tar.gz) | ARM64 Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-gnu.tar.gz.sha256) |\r\n| [atuin-x86_64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-gnu.tar.gz) | x64 Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-gnu.tar.gz.sha256) |\r\n| [atuin-aarch64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-musl.tar.gz) | ARM64 MUSL Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-aarch64-unknown-linux-musl.tar.gz.sha256) |\r\n| [atuin-x86_64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-musl.tar.gz) | x64 MUSL Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-x86_64-unknown-linux-musl.tar.gz.sha256) |\r\n\r\n## Verifying GitHub Artifact Attestations\r\n\r\nThe artifacts in this release have attestations generated with GitHub Artifact Attestations. These can be verified by using the [GitHub CLI](https://cli.github.com/manual/gh_attestation_verify):\r\n```sh\r\ngh attestation verify <file-path of downloaded artifact> --repo atuinsh/atuin\r\n```\r\n\r\nYou can also download the attestation from [GitHub](https://github.com/atuinsh/atuin/attestations) and verify against that directly:\r\n```sh\r\ngh attestation verify <file-path of downloaded artifact> --bundle <file-path of downloaded attestation>\r\n```\r\n\r\n# atuin-server 18.24.2\r\n\r\n## Install atuin-server 18.24.2\r\n\r\n### Install prebuilt binaries via shell script\r\n\r\n```sh\r\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-installer.sh | sh\r\n```\r\n\r\n### Install prebuilt binaries via powershell script\r\n\r\n```sh\r\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-installer.ps1 | iex\"\r\n```\r\n\r\n## Download atuin-server 18.24.2\r\n\r\n|  File  | Platform | Checksum |\r\n|--------|----------|----------|\r\n| [atuin-server-aarch64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-apple-darwin.tar.gz) | Apple Silicon macOS | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-apple-darwin.tar.gz.sha256) |\r\n| [atuin-server-x86_64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-apple-darwin.tar.gz) | Intel macOS | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-apple-darwin.tar.gz.sha256) |\r\n| [atuin-server-x86_64-pc-windows-msvc.zip](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-pc-windows-msvc.zip.sha256) |\r\n| [atuin-server-aarch64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-gnu.tar.gz) | ARM64 Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-gnu.tar.gz.sha256) |\r\n| [atuin-server-x86_64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-gnu.tar.gz) | x64 Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-gnu.tar.gz.sha256) |\r\n| [atuin-server-aarch64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-musl.tar.gz) | ARM64 MUSL Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-aarch64-unknown-linux-musl.tar.gz.sha256) |\r\n| [atuin-server-x86_64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-musl.tar.gz) | x64 MUSL Linux | [checksum](https://github.com/atuinsh/atuin/releases/download/v18.24.2/atuin-server-x86_64-unknown-linux-musl.tar.gz.sha256) |\r\n\r\n## Verifying GitHub Artifact Attestations\r\n\r\nThe artifacts in this release have attestations generated with GitHub Artifact Attestations. These can be verified by using the [GitHub CLI](https://cli.github.com/manual/gh_attestation_verify):\r\n```sh\r\ngh attestation verify <file-path of downloaded artifact> --repo atuinsh/atuin\r\n```\r\n\r\nYou can also download the attestation from [GitHub](https://github.com/atuinsh/atuin/attestations) and verify against that directly:\r\n```sh\r\ngh attestation verify <file-path of downloaded artifact> --bundle <file-path of downloaded attestation>\r\n```\r\n\r\n\r\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/atuinsh/atuin/releases/420565132/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
