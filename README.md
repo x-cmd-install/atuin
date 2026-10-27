@@ -14,15 +14,15 @@ x install atuin
 
 ## Code insight
 
-Total: **181,615** lines of code across **654** files in the top 5 languages.
+Total: **182,595** lines of code across **655** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 168,899 | 6,317 | 20,212 | 595 |
+| Rust | 169,870 | 6,355 | 20,306 | 596 |
 | Json | 3,571 | 0 | 2 | 7 |
 | Protobuf | 2,524 | 3,241 | 357 | 9 |
-| Toml | 1,534 | 581 | 248 | 37 |
-| Sh | 1,046 | 306 | 251 | 6 |
+| Toml | 1,537 | 581 | 248 | 37 |
+| Sh | 1,056 | 311 | 255 | 6 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **181,615** lines of code across **654** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v18.24.2` (2026-10-22)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-27
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 32,079 · **Forks**: 1,012 · **Open issues**: 1,440 · **Contributors**: 352
+- **Stars**: 32,095 · **Forks**: 1,013 · **Open issues**: 1,440 · **Contributors**: 352
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 2230 · **Open PRs**: 116 · **Closed issues**: 1134 · **Open issues**: 306 · **Commits**: 2461
+- **Releases**: 98 · **Merged PRs**: 2249 · **Open PRs**: 118 · **Closed issues**: 1137 · **Open issues**: 303 · **Commits**: 2481
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 5 | 149 | 38 | 12 | 16 | 160 |
-| last60d | 2026-08-27 | 9 | 318 | 60 | 33 | 24 | 319 |
-| 90d | 2026-07-28 | 18 | 442 | 81 | 53 | 44 | 439 |
-| last180d | 2026-04-29 | 24 | 620 | 99 | 102 | 65 | 668 |
-| 360d | 2025-10-31 | 51 | 888 | 107 | 212 | 108 | 974 |
-| last720d | 2024-11-05 | 65 | 1071 | 116 | 398 | 204 | 1191 |
+| 30d | 2026-09-27 | 5 | 162 | 39 | 11 | 16 | 180 |
+| last60d | 2026-08-28 | 8 | 331 | 62 | 34 | 23 | 339 |
+| 90d | 2026-07-29 | 17 | 458 | 82 | 54 | 43 | 459 |
+| last180d | 2026-04-30 | 24 | 639 | 101 | 102 | 64 | 688 |
+| 360d | 2025-11-01 | 51 | 907 | 109 | 214 | 106 | 994 |
+| last720d | 2024-11-06 | 65 | 1090 | 118 | 401 | 201 | 1211 |
 
 ## Release assets
 
@@ -98,7 +98,7 @@ Total: **181,615** lines of code across **654** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **162** distros on [repology.org](https://repology.org/project/atuin). **21** are ✅ on the latest upstream release, **126** are ⚠️ on an older version.
+Reported by **162** distros on [repology.org](https://repology.org/project/atuin). **23** are ✅ on the latest upstream release, **124** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -112,7 +112,7 @@ Reported by **162** distros on [repology.org](https://repology.org/project/atuin
 | Nix unstable | `18.24.2` | ✅ latest |
 | Void | `18.16.1` | ⚠️ outdated |
 | Alpine edge | `18.23.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `18.24.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `18.24.2` | ✅ latest |
 
 ## Improve this data
 
@@ -123,4 +123,4 @@ Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:53:06Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:17:17Z._
