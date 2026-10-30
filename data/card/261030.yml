@@ -1,0 +1,218 @@
+about:
+  description: "✨ Making your shell magical"
+  license: MIT
+  homepage: https://atuin.sh
+  head: b7ccdaf
+  archived: false
+  latestVersion: "v18.24.4"
+  latestRelease: "v18.24.4"
+  latestPrerelease: "v18.24.0-beta.2"
+  collectedAt: 2026-10-30T06:53:30Z
+timeline:
+  created: 2020-10-04
+  lastCommit: 2026-10-30
+  lastVersion: 2026-10-30
+  lastRelease: 2026-10-30
+  lastPrerelease: 2026-10-14
+popularity:
+  star: 32143
+  watcher: 75
+  fork: 1017
+  release: 100
+  contributor: 354
+  pullRequest: 3027
+  issue: 1450
+language:
+  Rust: 8457892
+  Shell: 115953
+  Fluent: 41328
+  TypeScript: 16587
+  PowerShell: 11808
+  Nushell: 6336
+  Nix: 5255
+  Dockerfile: 4506
+  Xonsh: 4343
+  Lua: 4243
+  Python: 4113
+  PLpgSQL: 3330
+  Tree-sitter Query: 2117
+  RenderScript: 2
+totalBytes: 8677813
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 7
+    mergedPR: 176
+    openPR: 38
+    closedIssue: 15
+    openIssue: 21
+    commit: 211
+  last60d:
+    since: 2026-08-31
+    release: 10
+    mergedPR: 347
+    openPR: 61
+    closedIssue: 37
+    openIssue: 28
+    commit: 370
+  last90d:
+    since: 2026-08-01
+    release: 16
+    mergedPR: 462
+    openPR: 80
+    closedIssue: 57
+    openIssue: 45
+    commit: 490
+  last180d:
+    since: 2026-05-03
+    release: 26
+    mergedPR: 666
+    openPR: 103
+    closedIssue: 105
+    openIssue: 70
+    commit: 719
+  last360d:
+    since: 2025-11-04
+    release: 53
+    mergedPR: 934
+    openPR: 111
+    closedIssue: 219
+    openIssue: 111
+    commit: 1025
+  last720d:
+    since: 2024-11-09
+    release: 67
+    mergedPR: 1117
+    openPR: 120
+    closedIssue: 406
+    openIssue: 205
+    commit: 1242
+total:
+  release: 100
+  mergedPR: 2277
+  openPR: 120
+  closedIssue: 1142
+  openIssue: 308
+  commit: 2512
+---
+path: /home/runner/.x-repo/github.com/atuinsh/atuin
+collectedAt: 2026-10-30T06:53:39Z
+loc:
+  Rust:
+    code: 175573
+    comments: 6448
+    blanks: 20880
+    files: 625
+  Json:
+    code: 3571
+    comments: 0
+    blanks: 2
+    files: 7
+  Protobuf:
+    code: 2594
+    comments: 3297
+    blanks: 375
+    files: 10
+  Toml:
+    code: 1594
+    comments: 592
+    blanks: 259
+    files: 44
+  Sh:
+    code: 1056
+    comments: 311
+    blanks: 255
+    files: 6
+  FreeMarker:
+    code: 589
+    comments: 0
+    blanks: 22
+    files: 8
+  Sql:
+    code: 581
+    comments: 169
+    blanks: 83
+    files: 70
+  Css:
+    code: 521
+    comments: 0
+    blanks: 75
+    files: 2
+  Yaml:
+    code: 507
+    comments: 0
+    blanks: 9
+    files: 6
+  Bash:
+    code: 494
+    comments: 247
+    blanks: 100
+    files: 2
+  TypeScript:
+    code: 381
+    comments: 116
+    blanks: 73
+    files: 3
+  Python:
+    code: 233
+    comments: 10
+    blanks: 64
+    files: 5
+  Zsh:
+    code: 213
+    comments: 50
+    blanks: 50
+    files: 2
+  Fish:
+    code: 199
+    comments: 21
+    blanks: 40
+    files: 1
+  PowerShell:
+    code: 183
+    comments: 40
+    blanks: 41
+    files: 1
+  Nix:
+    code: 131
+    comments: 19
+    blanks: 18
+    files: 3
+  Svg:
+    code: 76
+    comments: 0
+    blanks: 0
+    files: 1
+  Scheme:
+    code: 72
+    comments: 15
+    blanks: 30
+    files: 1
+  Html:
+    code: 47
+    comments: 0
+    blanks: 2
+    files: 2
+  Dockerfile:
+    code: 46
+    comments: 1
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 7034
+    blanks: 3273
+    files: 72
+  Text:
+    code: 0
+    comments: 91
+    blanks: 0
+    files: 12
+total:
+  code: 189925
+  comments: 35787
+  blanks: 27270
+  files: 884
+---
+
+---
