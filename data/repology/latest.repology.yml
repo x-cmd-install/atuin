@@ -1,25 +1,52 @@
-- repo: manjaro_testing
-  subrepo: extra
+- repo: raspbian_testing
+  subrepo: main
   srcname: atuin
-  binname: atuin
+  binnames:
+    - atuin
+    - atuin-server
   visiblename: atuin
   version: 18.23.0
-  origversion: 18.23.0-1
+  origversion: 18.23.0+ds-1
   status: outdated
-  summary: Magical shell history
+  maintainers:
+    - ncts@debian.org
+  categories:
+    - misc
+- repo: parabola
+  subrepo: extra
+  srcname: atuin
+  binname: atuin-server
+  visiblename: atuin-server
+  version: 18.24.4
+  origversion: 18.24.4-1
+  status: newest
+  summary: Magical shell history - sync server
   licenses:
     - MIT
-- repo: manjaro_unstable
+- repo: parabola
   subrepo: extra
   srcname: atuin
   binname: atuin
   visiblename: atuin
-  version: 18.24.2
-  origversion: 18.24.2-1
-  status: outdated
+  version: 18.24.4
+  origversion: 18.24.4-1
+  status: newest
   summary: Magical shell history
   licenses:
     - MIT
+- repo: parrot
+  subrepo: parrot/main
+  srcname: atuin
+  binnames:
+    - atuin
+  visiblename: atuin
+  version: 18.6.1
+  origversion: 18.6.1-1
+  status: outdated
+  maintainers:
+    - ncts@debian.org
+  categories:
+    - misc
 - repo: aerynos
   srcname: atuin
   visiblename: atuin
@@ -55,6 +82,18 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
+- repo: aur
+  srcname: atuin-git
+  binname: atuin-git
+  visiblename: atuin-git
+  version: 18.8.0.r33.gcc2b7170
+  origversion: 18.8.0.r33.gcc2b7170-1
+  status: rolling
+  summary: Magical shell history (git)
+  maintainers:
+    - orhun@aur
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: atuin
@@ -445,16 +484,6 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: crux_38
-  subrepo: contrib
-  srcname: atuin
-  visiblename: atuin
-  version: 18.24.4
-  origversion: null
-  status: newest
-  summary: Magical shell history
-  maintainers:
-    - tbier@posteo.de
 - repo: alpine_3_21
   subrepo: community
   srcname: atuin
@@ -490,84 +519,6 @@
   origversion: 15.0.0-r1
   status: outdated
   summary: Fish completions for atuin
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: atuin
-  binname: atuin-server
-  visiblename: atuin-server
-  version: 15.0.0
-  origversion: 15.0.0-r1
-  status: outdated
-  summary: Magical shell history - sync server
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: atuin
-  binname: atuin-server-openrc
-  visiblename: atuin-server-openrc
-  version: 15.0.0
-  origversion: 15.0.0-r1
-  status: outdated
-  summary: Magical shell history (OpenRC init scripts)
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: atuin
-  binname: atuin-sync
-  visiblename: atuin-sync
-  version: 15.0.0
-  origversion: 15.0.0-r1
-  status: outdated
-  summary: Magical shell history - client with history sync
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: atuin
-  binname: atuin-zsh-completion
-  visiblename: atuin-zsh-completion
-  version: 15.0.0
-  origversion: 15.0.0-r1
-  status: outdated
-  summary: Zsh completions for atuin
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: atuin
-  binname: atuin-zsh-plugin
-  visiblename: atuin-zsh-plugin
-  version: 15.0.0
-  origversion: 15.0.0-r1
-  status: outdated
-  summary: Magical shell history (Zsh plugin)
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: atuin
-  binname: atuin
-  visiblename: atuin
-  version: 15.0.0
-  origversion: 15.0.0-r1
-  status: outdated
-  summary: Magical shell history - offline only client
   maintainers:
     - jakub@jirutka.cz
   licenses:
@@ -575,29 +526,42 @@
 - repo: chimera
   subrepo: user
   srcname: atuin
-  binname: atuin-nucomp
-  visiblename: atuin-nucomp
+  binname: atuin
+  visiblename: atuin
   version: 18.16.0
   origversion: 18.16.0-r0
   status: outdated
-  summary: Sync, search and backup tool for shell history (nu completions)
+  summary: Sync, search and backup tool for shell history
   licenses:
     - MIT
-- repo: alpine_3_22
+- repo: alpine_3_21
   subrepo: community
   srcname: atuin
-  binname: atuin-bash-completion
-  visiblename: atuin-bash-completion
+  binname: atuin-server
+  visiblename: atuin-server
   version: 15.0.0
   origversion: 15.0.0-r1
   status: outdated
-  summary: Bash completions for atuin
+  summary: Magical shell history - sync server
   maintainers:
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: debian_13
-  subrepo: trixie/main
+- repo: alpine_3_21
+  subrepo: community
+  srcname: atuin
+  binname: atuin-server-openrc
+  visiblename: atuin-server-openrc
+  version: 15.0.0
+  origversion: 15.0.0-r1
+  status: outdated
+  summary: Magical shell history (OpenRC init scripts)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: parrot
+  subrepo: parrot-updates/main
   srcname: atuin
   binnames:
     - atuin
@@ -609,6 +573,71 @@
     - ncts@debian.org
   categories:
     - misc
+- repo: alpine_3_21
+  subrepo: community
+  srcname: atuin
+  binname: atuin-sync
+  visiblename: atuin-sync
+  version: 15.0.0
+  origversion: 15.0.0-r1
+  status: outdated
+  summary: Magical shell history - client with history sync
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: atuin
+  binname: atuin-zsh-completion
+  visiblename: atuin-zsh-completion
+  version: 15.0.0
+  origversion: 15.0.0-r1
+  status: outdated
+  summary: Zsh completions for atuin
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: atuin
+  binname: atuin-zsh-plugin
+  visiblename: atuin-zsh-plugin
+  version: 15.0.0
+  origversion: 15.0.0-r1
+  status: outdated
+  summary: Magical shell history (Zsh plugin)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: atuin
+  binname: atuin
+  visiblename: atuin
+  version: 15.0.0
+  origversion: 15.0.0-r1
+  status: outdated
+  summary: Magical shell history - offline only client
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: atuin
+  binname: atuin-bash-completion
+  visiblename: atuin-bash-completion
+  version: 15.0.0
+  origversion: 15.0.0-r1
+  status: outdated
+  summary: Bash completions for atuin
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
 - repo: alpine_3_22
   subrepo: community
   srcname: atuin
@@ -646,6 +675,17 @@
   summary: Magical shell history (OpenRC init scripts)
   maintainers:
     - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: atuin
+  binname: atuin-doc
+  visiblename: atuin-doc
+  version: 18.16.0
+  origversion: 18.16.0-r0
+  status: outdated
+  summary: Sync, search and backup tool for shell history (documentation)
   licenses:
     - MIT
 - repo: alpine_3_22
@@ -739,20 +779,6 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: debian_14
-  subrepo: forky/main
-  srcname: atuin
-  binnames:
-    - atuin
-    - atuin-server
-  visiblename: atuin
-  version: 18.23.0
-  origversion: 18.23.0+ds-1
-  status: outdated
-  maintainers:
-    - ncts@debian.org
-  categories:
-    - misc
 - repo: alpine_3_23
   subrepo: community
   srcname: atuin
@@ -792,129 +818,129 @@
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: alpine_3_23
-  subrepo: community
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
   srcname: atuin
-  binname: atuin-zsh-plugin
-  visiblename: atuin-zsh-plugin
-  version: 18.6.1
-  origversion: 18.6.1-r0
-  status: outdated
-  summary: Magical shell history (Zsh plugin)
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: atuin
-  binname: atuin
   visiblename: atuin
-  version: 18.6.1
-  origversion: 18.6.1-r0
-  status: outdated
-  summary: Magical shell history - offline only client
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: atuin
-  binname: atuin-bash-completion
-  visiblename: atuin-bash-completion
-  version: 18.6.1
-  origversion: 18.6.1-r0
-  status: outdated
-  summary: Bash completions for atuin
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: atuin
-  binname: atuin-fish-completion
-  visiblename: atuin-fish-completion
-  version: 18.6.1
-  origversion: 18.6.1-r0
-  status: outdated
-  summary: Fish completions for atuin
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: atuin
-  binname: atuin-server
-  visiblename: atuin-server
-  version: 18.6.1
-  origversion: 18.6.1-r0
-  status: outdated
-  summary: Magical shell history - sync server
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: atuin
-  binname: atuin-server-openrc
-  visiblename: atuin-server-openrc
-  version: 18.6.1
-  origversion: 18.6.1-r0
-  status: outdated
-  summary: Magical shell history (OpenRC init scripts)
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: atuin
-  binname: atuin
-  visiblename: atuin
-  version: 18.21.0
-  origversion: 18.21.0-1
+  version: 12.0.0
+  origversion: 12.0.0-bp155.1.7
   status: outdated
   summary: Magical shell history
   licenses:
     - MIT
+  categories:
+    - System/Console
+- repo: alpine_3_23
+  subrepo: community
+  srcname: atuin
+  binname: atuin-zsh-plugin
+  visiblename: atuin-zsh-plugin
+  version: 18.6.1
+  origversion: 18.6.1-r0
+  status: outdated
+  summary: Magical shell history (Zsh plugin)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: atuin
+  binname: atuin
+  visiblename: atuin
+  version: 18.6.1
+  origversion: 18.6.1-r1
+  status: outdated
+  summary: Magical shell history - offline only client
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: atuin
+  binnames:
+    - atuin
+  visiblename: atuin
+  version: 18.6.1
+  origversion: 18.6.1-1
+  status: outdated
+  maintainers:
+    - ncts@debian.org
+  categories:
+    - utils
+- repo: alpine_3_24
+  subrepo: community
+  srcname: atuin
+  binname: atuin-bash-completion
+  visiblename: atuin-bash-completion
+  version: 18.6.1
+  origversion: 18.6.1-r1
+  status: outdated
+  summary: Bash completions for atuin
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: atuin
+  binname: atuin-fish-completion
+  visiblename: atuin-fish-completion
+  version: 18.6.1
+  origversion: 18.6.1-r1
+  status: outdated
+  summary: Fish completions for atuin
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: atuin
+  binname: atuin-server
+  visiblename: atuin-server
+  version: 18.6.1
+  origversion: 18.6.1-r1
+  status: outdated
+  summary: Magical shell history - sync server
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: atuin
+  binname: atuin-server-openrc
+  visiblename: atuin-server-openrc
+  version: 18.6.1
+  origversion: 18.6.1-r1
+  status: outdated
+  summary: Magical shell history (OpenRC init scripts)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: atuin
   binname: atuin-sync
   visiblename: atuin-sync
   version: 18.6.1
-  origversion: 18.6.1-r0
+  origversion: 18.6.1-r1
   status: outdated
   summary: Magical shell history - client with history sync
   maintainers:
     - jakub@jirutka.cz
   licenses:
     - MIT
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: atuin
-  binnames:
-    - atuin
-    - atuin-server
-  visiblename: atuin
-  version: 18.23.0
-  origversion: 18.23.0+ds-1
-  status: legacy
-  maintainers:
-    - ncts@debian.org
-  categories:
-    - misc
 - repo: alpine_3_24
   subrepo: community
   srcname: atuin
   binname: atuin-zsh-completion
   visiblename: atuin-zsh-completion
   version: 18.6.1
-  origversion: 18.6.1-r0
+  origversion: 18.6.1-r1
   status: outdated
   summary: Zsh completions for atuin
   maintainers:
@@ -927,7 +953,7 @@
   binname: atuin-zsh-plugin
   visiblename: atuin-zsh-plugin
   version: 18.6.1
-  origversion: 18.6.1-r0
+  origversion: 18.6.1-r1
   status: outdated
   summary: Magical shell history (Zsh plugin)
   maintainers:
@@ -945,6 +971,17 @@
   summary: Magical shell history - offline only client
   maintainers:
     - jakub@jirutka.cz
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: atuin
+  binname: atuin-bashcomp
+  visiblename: atuin-bashcomp
+  version: 18.16.0
+  origversion: 18.16.0-r0
+  status: outdated
+  summary: Sync, search and backup tool for shell history (bash completions)
   licenses:
     - MIT
 - repo: alpine_edge
@@ -1085,17 +1122,6 @@
 - repo: arch
   subrepo: extra
   srcname: atuin
-  binname: atuin-server
-  visiblename: atuin-server
-  version: 18.24.4
-  origversion: 18.24.4-1
-  status: newest
-  summary: Magical shell history - sync server
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: atuin
   binname: atuin
   visiblename: atuin
   version: 18.24.4
@@ -1104,49 +1130,15 @@
   summary: Magical shell history
   licenses:
     - MIT
-- repo: aur
-  srcname: atuin-git
-  binname: atuin-git
-  visiblename: atuin-git
-  version: 18.8.0.r33.gcc2b7170
-  origversion: 18.8.0.r33.gcc2b7170-1
-  status: rolling
-  summary: Magical shell history (git)
-  maintainers:
-    - orhun@aur
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
+- repo: arch
+  subrepo: extra
   srcname: atuin
-  binname: atuin
-  visiblename: atuin
-  version: 18.16.0
-  origversion: 18.16.0-r0
-  status: outdated
-  summary: Sync, search and backup tool for shell history
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: atuin
-  binname: atuin-bashcomp
-  visiblename: atuin-bashcomp
-  version: 18.16.0
-  origversion: 18.16.0-r0
-  status: outdated
-  summary: Sync, search and backup tool for shell history (bash completions)
-  licenses:
-    - MIT
-- repo: chimera
-  subrepo: user
-  srcname: atuin
-  binname: atuin-doc
-  visiblename: atuin-doc
-  version: 18.16.0
-  origversion: 18.16.0-r0
-  status: outdated
-  summary: Sync, search and backup tool for shell history (documentation)
+  binname: atuin-server
+  visiblename: atuin-server
+  version: 18.24.4
+  origversion: 18.24.4-1
+  status: newest
+  summary: Magical shell history - sync server
   licenses:
     - MIT
 - repo: chimera
@@ -1158,6 +1150,17 @@
   origversion: 18.16.0-r0
   status: outdated
   summary: Sync, search and backup tool for shell history (fish completions)
+  licenses:
+    - MIT
+- repo: chimera
+  subrepo: user
+  srcname: atuin
+  binname: atuin-nucomp
+  visiblename: atuin-nucomp
+  version: 18.16.0
+  origversion: 18.16.0-r0
+  status: outdated
+  summary: Sync, search and backup tool for shell history (nu completions)
   licenses:
     - MIT
 - repo: chimera
@@ -1208,6 +1211,57 @@
   summary: Magical shell history
   maintainers:
     - tbier@posteo.de
+- repo: crux_38
+  subrepo: contrib
+  srcname: atuin
+  visiblename: atuin
+  version: 18.24.4
+  origversion: null
+  status: newest
+  summary: Magical shell history
+  maintainers:
+    - tbier@posteo.de
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: atuin
+  binnames:
+    - atuin
+  visiblename: atuin
+  version: 18.6.1
+  origversion: 18.6.1-1
+  status: outdated
+  maintainers:
+    - ncts@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: atuin
+  binnames:
+    - atuin
+    - atuin-server
+  visiblename: atuin
+  version: 18.23.0
+  origversion: 18.23.0+ds-1
+  status: outdated
+  maintainers:
+    - ncts@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: atuin
+  binnames:
+    - atuin
+    - atuin-server
+  visiblename: atuin
+  version: 18.23.0
+  origversion: 18.23.0+ds-1
+  status: legacy
+  maintainers:
+    - ncts@debian.org
+  categories:
+    - misc
 - repo: debian_unstable
   subrepo: sid/main
   srcname: atuin
@@ -1332,23 +1386,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: release
-  srcname: atuin
-  binnames:
-    - atuin
-    - atuin-all-users
-    - atuin-debuginfo
-    - atuin-debugsource
-  visiblename: atuin
-  version: 18.6.1
-  origversion: 18.6.1-1.fc43
-  status: legacy
-  summary: Magical shell history
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: updates
   srcname: atuin
   binnames:
@@ -1360,6 +1397,23 @@
   version: 18.12.1
   origversion: 18.12.1-6.fc43
   status: outdated
+  summary: Magical shell history
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: atuin
+  binnames:
+    - atuin
+    - atuin-all-users
+    - atuin-debuginfo
+    - atuin-debugsource
+  visiblename: atuin
+  version: 18.6.1
+  origversion: 18.6.1-1.fc43
+  status: legacy
   summary: Magical shell history
   licenses:
     - MIT
@@ -1452,6 +1506,18 @@
     - ZLIB
   categories:
     - app-shells
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: atuin
+  visiblename: atuin
+  version: 16.0.0
+  origversion: 16.0.0-bp156.1.8
+  status: outdated
+  summary: Magical shell history
+  licenses:
+    - MIT
+  categories:
+    - System/Console
 - repo: gentoo
   srcname: app-shells/atuin
   visiblename: app-shells/atuin
@@ -1478,28 +1544,6 @@
     - ZLIB
   categories:
     - app-shells
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: atuin
-  binname: atuin-server
-  visiblename: atuin-server
-  version: 18.21.0
-  origversion: 18.21.0-1
-  status: outdated
-  summary: Magical shell history - sync server
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: atuin
-  binname: atuin-server
-  visiblename: atuin-server
-  version: 18.23.0
-  origversion: 18.23.0-1
-  status: outdated
-  summary: Magical shell history - sync server
-  licenses:
-    - MIT
 - repo: gentoo
   srcname: app-shells/atuin
   visiblename: app-shells/atuin
@@ -1614,19 +1658,6 @@
     - ncts@debian.org
   categories:
     - misc
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
-  srcname: atuin
-  binnames:
-    - atuin
-  visiblename: atuin
-  version: 18.4.0
-  origversion: 18.4.0-2
-  status: outdated
-  maintainers:
-    - ncts@debian.org
-  categories:
-    - universe/misc
 - repo: liguros_stable
   srcname: app-shells/atuin
   visiblename: app-shells/atuin
@@ -1769,6 +1800,28 @@
     - ZLIB
   categories:
     - app-shells
+- repo: raspbian_stable
+  subrepo: main
+  srcname: atuin
+  binnames:
+    - atuin
+  visiblename: atuin
+  version: 18.6.1
+  origversion: 18.6.1-1
+  status: outdated
+  maintainers:
+    - ncts@debian.org
+  categories:
+    - misc
+- repo: scoop
+  subrepo: main
+  binname: atuin
+  visiblename: atuin
+  version: 18.24.4
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: liguros_develop
   srcname: app-shells/atuin
   visiblename: app-shells/atuin
@@ -1835,6 +1888,39 @@
     - MIT
   categories:
     - sysutils
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: atuin
+  binname: atuin
+  visiblename: atuin
+  version: 16.0.0
+  origversion: 16.0.0-2
+  status: outdated
+  summary: Magical shell history
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: atuin
+  binname: atuin
+  visiblename: atuin
+  version: 16.0.0
+  origversion: 16.0.0-2
+  status: outdated
+  summary: Magical shell history
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: atuin
+  binname: atuin
+  visiblename: atuin
+  version: 18.24.2
+  origversion: 18.24.2-1
+  status: outdated
+  summary: Magical shell history
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: atuin
@@ -1999,30 +2085,6 @@
     - semarie@kapouay.eu.org
   categories:
     - shells
-- repo: opensuse_leap_15_5
-  subrepo: main/oss
-  srcname: atuin
-  visiblename: atuin
-  version: 12.0.0
-  origversion: 12.0.0-bp155.1.7
-  status: outdated
-  summary: Magical shell history
-  licenses:
-    - MIT
-  categories:
-    - System/Console
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
-  srcname: atuin
-  visiblename: atuin
-  version: 16.0.0
-  origversion: 16.0.0-bp156.1.8
-  status: outdated
-  summary: Magical shell history
-  licenses:
-    - MIT
-  categories:
-    - System/Console
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: atuin
@@ -2044,103 +2106,6 @@
     - MIT
   categories:
     - System/Console
-- repo: parabola
-  subrepo: extra
-  srcname: atuin
-  binname: atuin
-  visiblename: atuin
-  version: 18.24.4
-  origversion: 18.24.4-1
-  status: newest
-  summary: Magical shell history
-  licenses:
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: atuin
-  binname: atuin-server
-  visiblename: atuin-server
-  version: 18.24.4
-  origversion: 18.24.4-1
-  status: newest
-  summary: Magical shell history - sync server
-  licenses:
-    - MIT
-- repo: parrot
-  subrepo: parrot/main
-  srcname: atuin
-  binnames:
-    - atuin
-  visiblename: atuin
-  version: 18.6.1
-  origversion: 18.6.1-1
-  status: outdated
-  maintainers:
-    - ncts@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: atuin
-  binnames:
-    - atuin
-  visiblename: atuin
-  version: 18.6.1
-  origversion: 18.6.1-1
-  status: outdated
-  maintainers:
-    - ncts@debian.org
-  categories:
-    - misc
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: atuin
-  binnames:
-    - atuin
-  visiblename: atuin
-  version: 18.6.1
-  origversion: 18.6.1-1
-  status: outdated
-  maintainers:
-    - ncts@debian.org
-  categories:
-    - utils
-- repo: raspbian_stable
-  subrepo: main
-  srcname: atuin
-  binnames:
-    - atuin
-  visiblename: atuin
-  version: 18.6.1
-  origversion: 18.6.1-1
-  status: outdated
-  maintainers:
-    - ncts@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: atuin
-  binnames:
-    - atuin
-    - atuin-server
-  visiblename: atuin
-  version: 18.23.0
-  origversion: 18.23.0+ds-1
-  status: outdated
-  maintainers:
-    - ncts@debian.org
-  categories:
-    - misc
-- repo: scoop
-  subrepo: main
-  binname: atuin
-  visiblename: atuin
-  version: 18.24.4
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: t2
   srcname: atuin
   visiblename: atuin
@@ -2164,6 +2129,19 @@
   summary: Magical shell history
   maintainers:
     - termux@github
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: atuin
+  binnames:
+    - atuin
+  visiblename: atuin
+  version: 18.4.0
+  origversion: 18.4.0-2
+  status: outdated
+  maintainers:
+    - ncts@debian.org
+  categories:
+    - universe/misc
 - repo: ubuntu_25_10
   subrepo: questing/universe
   srcname: atuin
