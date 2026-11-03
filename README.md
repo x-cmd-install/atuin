@@ -14,15 +14,15 @@ x install atuin
 
 ## Code insight
 
-Total: **191,242** lines of code across **697** files in the top 5 languages.
+Total: **201,081** lines of code across **710** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 177,793 | 6,481 | 21,099 | 629 |
-| Json | 3,571 | 0 | 2 | 7 |
-| Protobuf | 2,936 | 3,502 | 432 | 11 |
-| Toml | 1,597 | 595 | 259 | 44 |
-| Sh | 1,056 | 311 | 255 | 6 |
+| Rust | 186,346 | 6,669 | 21,784 | 638 |
+| Json | 4,220 | 0 | 2 | 10 |
+| Protobuf | 3,152 | 3,683 | 481 | 12 |
+| Toml | 1,602 | 601 | 260 | 44 |
+| Sh | 1,069 | 317 | 251 | 6 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **191,242** lines of code across **697** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v18.24.4` (2026-10-30)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 32,176 · **Forks**: 1,020 · **Open issues**: 1,455 · **Contributors**: 354
+- **Stars**: 32,184 · **Forks**: 1,022 · **Open issues**: 1,456 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 100 · **Merged PRs**: 2277 · **Open PRs**: 135 · **Closed issues**: 1142 · **Open issues**: 313 · **Commits**: 2527
+- **Releases**: 100 · **Merged PRs**: 2286 · **Open PRs**: 137 · **Closed issues**: 1144 · **Open issues**: 312 · **Commits**: 2541
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 7 | 162 | 49 | 14 | 22 | 174 |
-| last60d | 2026-09-03 | 9 | 335 | 75 | 34 | 32 | 355 |
-| 90d | 2026-08-04 | 15 | 450 | 94 | 55 | 49 | 479 |
-| last180d | 2026-05-06 | 26 | 666 | 117 | 104 | 75 | 730 |
-| 360d | 2025-11-07 | 53 | 932 | 125 | 218 | 116 | 1034 |
-| last720d | 2024-11-12 | 67 | 1117 | 135 | 405 | 210 | 1253 |
+| 30d | 2026-10-04 | 7 | 171 | 48 | 15 | 21 | 188 |
+| last60d | 2026-09-04 | 9 | 335 | 75 | 33 | 31 | 369 |
+| 90d | 2026-08-05 | 14 | 457 | 96 | 54 | 47 | 493 |
+| last180d | 2026-05-07 | 26 | 675 | 119 | 105 | 74 | 744 |
+| 360d | 2025-11-08 | 53 | 941 | 127 | 220 | 115 | 1048 |
+| last720d | 2024-11-13 | 67 | 1126 | 137 | 406 | 208 | 1267 |
 
 ## Release assets
 
@@ -114,7 +114,7 @@ Reported by **160** distros on [repology.org](https://repology.org/project/atuin
 | Nix unstable | `18.24.4` | ✅ latest |
 | Void | `18.16.1` | ⚠️ outdated |
 | Alpine edge | `18.23.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `18.24.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `18.24.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -125,4 +125,4 @@ Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:27:27Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:17:37Z._
