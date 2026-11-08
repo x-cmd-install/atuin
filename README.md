@@ -14,11 +14,11 @@ x install atuin
 
 ## Code insight
 
-Total: **207,550** lines of code across **723** files in the top 5 languages.
+Total: **207,886** lines of code across **724** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 192,334 | 6,800 | 22,242 | 647 |
+| Rust | 192,670 | 6,799 | 22,314 | 648 |
 | Json | 4,439 | 0 | 2 | 14 |
 | Protobuf | 3,398 | 3,900 | 529 | 12 |
 | Toml | 1,611 | 605 | 260 | 44 |
@@ -38,22 +38,22 @@ Total: **207,550** lines of code across **723** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 32,227 · **Forks**: 1,028 · **Open issues**: 1,464 · **Contributors**: 356
+- **Stars**: 32,234 · **Forks**: 1,027 · **Open issues**: 1,465 · **Contributors**: 356
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 2311 · **Open PRs**: 139 · **Closed issues**: 1147 · **Open issues**: 317 · **Commits**: 2576
+- **Releases**: 102 · **Merged PRs**: 2312 · **Open PRs**: 139 · **Closed issues**: 1148 · **Open issues**: 317 · **Commits**: 2577
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 9 | 162 | 47 | 14 | 25 | 222 |
-| last60d | 2026-09-08 | 11 | 353 | 76 | 32 | 38 | 403 |
-| 90d | 2026-08-09 | 14 | 469 | 96 | 54 | 49 | 527 |
-| last180d | 2026-05-11 | 28 | 698 | 121 | 105 | 80 | 778 |
-| 360d | 2025-11-12 | 55 | 963 | 129 | 221 | 118 | 1082 |
-| last720d | 2024-11-17 | 69 | 1151 | 139 | 406 | 213 | 1302 |
+| 30d | 2026-10-09 | 9 | 162 | 46 | 15 | 25 | 223 |
+| last60d | 2026-09-09 | 11 | 342 | 75 | 33 | 38 | 404 |
+| 90d | 2026-08-10 | 14 | 462 | 96 | 54 | 49 | 528 |
+| last180d | 2026-05-12 | 28 | 696 | 121 | 106 | 80 | 779 |
+| 360d | 2025-11-13 | 55 | 963 | 129 | 222 | 118 | 1083 |
+| last720d | 2024-11-18 | 69 | 1152 | 139 | 407 | 213 | 1303 |
 
 ## Release assets
 
@@ -100,7 +100,7 @@ Total: **207,550** lines of code across **723** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **162** distros on [repology.org](https://repology.org/project/atuin). **22** are ✅ on the latest upstream release, **127** are ⚠️ on an older version.
+Reported by **162** distros on [repology.org](https://repology.org/project/atuin). **23** are ✅ on the latest upstream release, **126** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -125,4 +125,4 @@ Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:05:36Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:11:34Z._
