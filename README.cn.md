@@ -14,14 +14,14 @@ x install atuin
 
 ## 代码洞察
 
-合计: **207,886** 行代码（覆盖前 5 种语言、共 **724** 个文件）。
+合计: **208,671** 行代码（覆盖前 5 种语言、共 **725** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 192,670 | 6,799 | 22,314 | 648 |
+| Rust | 193,449 | 6,801 | 22,375 | 649 |
 | Json | 4,439 | 0 | 2 | 14 |
 | Protobuf | 3,398 | 3,900 | 529 | 12 |
-| Toml | 1,611 | 605 | 260 | 44 |
+| Toml | 1,614 | 611 | 260 | 44 |
 | Sh | 1,069 | 317 | 251 | 6 |
 
 ## 源代码
@@ -32,75 +32,75 @@ x install atuin
 
 ## 发布
 
-- **最新版本**: `v18.24.5` (2026-11-04)
-- **最近提交**: 2026-11-07
+- **最新版本**: `v18.24.6` (2026-11-10)
+- **最近提交**: 2026-11-10
 - **Release 含资产**: 38 个
 
 ## 流行度
 
-- **Star**: 32,234 · **Fork**: 1,027 · **开放 issue**: 1,465 · **贡献者**: 356
+- **Star**: 32,247 · **Fork**: 1,026 · **开放 issue**: 1,468 · **贡献者**: 357
 
 ## 累计统计
 
-- **发布数**: 102 · **已合并 PR**: 2312 · **开放 PR**: 139 · **已关闭 issue**: 1148 · **开放 issue**: 317 · **提交数**: 2577
+- **发布数**: 103 · **已合并 PR**: 2320 · **开放 PR**: 141 · **已关闭 issue**: 1149 · **开放 issue**: 319 · **提交数**: 2585
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 9 | 162 | 46 | 15 | 25 | 223 |
-| last60d | 2026-09-09 | 11 | 342 | 75 | 33 | 38 | 404 |
-| 90d | 2026-08-10 | 14 | 462 | 96 | 54 | 49 | 528 |
-| last180d | 2026-05-12 | 28 | 696 | 121 | 106 | 80 | 779 |
-| 360d | 2025-11-13 | 55 | 963 | 129 | 222 | 118 | 1083 |
-| last720d | 2024-11-18 | 69 | 1152 | 139 | 407 | 213 | 1303 |
+| 30d | 2026-10-11 | 10 | 168 | 48 | 16 | 26 | 191 |
+| last60d | 2026-09-11 | 11 | 338 | 77 | 32 | 38 | 370 |
+| 90d | 2026-08-12 | 15 | 465 | 94 | 52 | 50 | 515 |
+| last180d | 2026-05-14 | 28 | 699 | 123 | 103 | 82 | 778 |
+| 360d | 2025-11-15 | 56 | 971 | 131 | 222 | 120 | 1086 |
+| last720d | 2024-11-20 | 70 | 1158 | 141 | 406 | 215 | 1309 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [atuin-aarch64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-aarch64-apple-darwin.tar.gz) | 16.2 MiB | `native/darwin/arm64` |
-| [atuin-aarch64-apple-darwin.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-aarch64-apple-darwin.tar.gz.sha256) | 101 B | `native/darwin/arm64` |
-| [atuin-aarch64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-aarch64-unknown-linux-gnu.tar.gz) | 19.5 MiB | `native/linux/arm64/glibc` |
-| [atuin-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-aarch64-unknown-linux-gnu.tar.gz.sha256) | 106 B | `native/linux/arm64/glibc` |
-| [atuin-aarch64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-aarch64-unknown-linux-musl.tar.gz) | 19.3 MiB | `native/linux/arm64/musl` |
-| [atuin-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-aarch64-unknown-linux-musl.tar.gz.sha256) | 107 B | `native/linux/arm64/musl` |
-| [atuin-installer.ps1](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-installer.ps1) | 20.7 KiB | `other` |
-| [atuin-installer.sh](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-installer.sh) | 54.7 KiB | `other` |
-| [atuin-server-aarch64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
-| [atuin-server-aarch64-apple-darwin.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
-| [atuin-server-aarch64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-aarch64-unknown-linux-gnu.tar.gz) | 7.5 MiB | `native/linux/arm64/glibc` |
-| [atuin-server-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-aarch64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/arm64/glibc` |
-| [atuin-server-aarch64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-aarch64-unknown-linux-musl.tar.gz) | 7.4 MiB | `native/linux/arm64/musl` |
-| [atuin-server-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-aarch64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/arm64/musl` |
-| [atuin-server-installer.ps1](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-installer.ps1) | 20.9 KiB | `other` |
-| [atuin-server-installer.sh](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-installer.sh) | 55.1 KiB | `other` |
-| [atuin-server-x86_64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-x86_64-apple-darwin.tar.gz) | 5.2 MiB | `native/darwin/x64` |
-| [atuin-server-x86_64-apple-darwin.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-x86_64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/x64` |
-| [atuin-server-x86_64-pc-windows-msvc.zip](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-x86_64-pc-windows-msvc.zip) | 5.6 MiB | `native/win/x64` |
-| [atuin-server-x86_64-pc-windows-msvc.zip.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-x86_64-pc-windows-msvc.zip.sha256) | 107 B | `native/win/x64` |
-| [atuin-server-x86_64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-x86_64-unknown-linux-gnu.tar.gz) | 7.4 MiB | `native/linux/x64/glibc` |
-| [atuin-server-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
-| [atuin-server-x86_64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-x86_64-unknown-linux-musl.tar.gz) | 7.5 MiB | `native/linux/x64/musl` |
-| [atuin-server-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-server-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
-| [atuin-x86_64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-x86_64-apple-darwin.tar.gz) | 17.7 MiB | `native/darwin/x64` |
-| [atuin-x86_64-apple-darwin.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-x86_64-apple-darwin.tar.gz.sha256) | 100 B | `native/darwin/x64` |
-| [atuin-x86_64-pc-windows-msvc.msi](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-x86_64-pc-windows-msvc.msi) | 19.0 MiB | `native/win/x64` |
-| [atuin-x86_64-pc-windows-msvc.msi.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-x86_64-pc-windows-msvc.msi.sha256) | 100 B | `native/win/x64` |
-| [atuin-x86_64-pc-windows-msvc.zip](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-x86_64-pc-windows-msvc.zip) | 19.1 MiB | `native/win/x64` |
-| [atuin-x86_64-pc-windows-msvc.zip.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-x86_64-pc-windows-msvc.zip.sha256) | 100 B | `native/win/x64` |
-| [atuin-x86_64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-x86_64-unknown-linux-gnu.tar.gz) | 20.4 MiB | `native/linux/x64/glibc` |
-| [atuin-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-x86_64-unknown-linux-gnu.tar.gz.sha256) | 105 B | `native/linux/x64/glibc` |
-| [atuin-x86_64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-x86_64-unknown-linux-musl.tar.gz) | 20.6 MiB | `native/linux/x64/musl` |
-| [atuin-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/atuin-x86_64-unknown-linux-musl.tar.gz.sha256) | 106 B | `native/linux/x64/musl` |
-| [dist-manifest.json](https://github.com/atuinsh/atuin/releases/download/v18.24.5/dist-manifest.json) | 58.4 KiB | `other` |
-| [sha256.sum](https://github.com/atuinsh/atuin/releases/download/v18.24.5/sha256.sum) | 1.6 KiB | `other` |
-| [source.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.5/source.tar.gz) | 5.1 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.5/source.tar.gz.sha256) | 81 B | `other` |
+| [atuin-aarch64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-aarch64-apple-darwin.tar.gz) | 16.8 MiB | `native/darwin/arm64` |
+| [atuin-aarch64-apple-darwin.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-aarch64-apple-darwin.tar.gz.sha256) | 101 B | `native/darwin/arm64` |
+| [atuin-aarch64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-aarch64-unknown-linux-gnu.tar.gz) | 20.1 MiB | `native/linux/arm64/glibc` |
+| [atuin-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-aarch64-unknown-linux-gnu.tar.gz.sha256) | 106 B | `native/linux/arm64/glibc` |
+| [atuin-aarch64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-aarch64-unknown-linux-musl.tar.gz) | 19.9 MiB | `native/linux/arm64/musl` |
+| [atuin-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-aarch64-unknown-linux-musl.tar.gz.sha256) | 107 B | `native/linux/arm64/musl` |
+| [atuin-installer.ps1](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-installer.ps1) | 20.7 KiB | `other` |
+| [atuin-installer.sh](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-installer.sh) | 54.7 KiB | `other` |
+| [atuin-server-aarch64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-aarch64-apple-darwin.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [atuin-server-aarch64-apple-darwin.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
+| [atuin-server-aarch64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-aarch64-unknown-linux-gnu.tar.gz) | 7.5 MiB | `native/linux/arm64/glibc` |
+| [atuin-server-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-aarch64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/arm64/glibc` |
+| [atuin-server-aarch64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-aarch64-unknown-linux-musl.tar.gz) | 7.4 MiB | `native/linux/arm64/musl` |
+| [atuin-server-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-aarch64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/arm64/musl` |
+| [atuin-server-installer.ps1](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-installer.ps1) | 20.9 KiB | `other` |
+| [atuin-server-installer.sh](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-installer.sh) | 55.1 KiB | `other` |
+| [atuin-server-x86_64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-x86_64-apple-darwin.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [atuin-server-x86_64-apple-darwin.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-x86_64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/x64` |
+| [atuin-server-x86_64-pc-windows-msvc.zip](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-x86_64-pc-windows-msvc.zip) | 5.6 MiB | `native/win/x64` |
+| [atuin-server-x86_64-pc-windows-msvc.zip.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-x86_64-pc-windows-msvc.zip.sha256) | 107 B | `native/win/x64` |
+| [atuin-server-x86_64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-x86_64-unknown-linux-gnu.tar.gz) | 7.4 MiB | `native/linux/x64/glibc` |
+| [atuin-server-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
+| [atuin-server-x86_64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-x86_64-unknown-linux-musl.tar.gz) | 7.5 MiB | `native/linux/x64/musl` |
+| [atuin-server-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-server-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
+| [atuin-x86_64-apple-darwin.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-x86_64-apple-darwin.tar.gz) | 18.3 MiB | `native/darwin/x64` |
+| [atuin-x86_64-apple-darwin.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-x86_64-apple-darwin.tar.gz.sha256) | 100 B | `native/darwin/x64` |
+| [atuin-x86_64-pc-windows-msvc.msi](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-x86_64-pc-windows-msvc.msi) | 19.7 MiB | `native/win/x64` |
+| [atuin-x86_64-pc-windows-msvc.msi.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-x86_64-pc-windows-msvc.msi.sha256) | 100 B | `native/win/x64` |
+| [atuin-x86_64-pc-windows-msvc.zip](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-x86_64-pc-windows-msvc.zip) | 19.8 MiB | `native/win/x64` |
+| [atuin-x86_64-pc-windows-msvc.zip.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-x86_64-pc-windows-msvc.zip.sha256) | 100 B | `native/win/x64` |
+| [atuin-x86_64-unknown-linux-gnu.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-x86_64-unknown-linux-gnu.tar.gz) | 21.0 MiB | `native/linux/x64/glibc` |
+| [atuin-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-x86_64-unknown-linux-gnu.tar.gz.sha256) | 105 B | `native/linux/x64/glibc` |
+| [atuin-x86_64-unknown-linux-musl.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-x86_64-unknown-linux-musl.tar.gz) | 21.2 MiB | `native/linux/x64/musl` |
+| [atuin-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/atuin-x86_64-unknown-linux-musl.tar.gz.sha256) | 106 B | `native/linux/x64/musl` |
+| [dist-manifest.json](https://github.com/atuinsh/atuin/releases/download/v18.24.6/dist-manifest.json) | 57.4 KiB | `other` |
+| [sha256.sum](https://github.com/atuinsh/atuin/releases/download/v18.24.6/sha256.sum) | 1.6 KiB | `other` |
+| [source.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.6/source.tar.gz) | 5.2 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.6/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/atuin) 上共有 **162** 个发行版报告此项目。**23** 个 ✅ 已是最新上游版本，**126** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/atuin) 上共有 **162** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**147** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -108,8 +108,8 @@ x install atuin
 | Debian 14 | `18.23.0` | ⚠️ outdated |
 | Debian 13 | `18.6.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `18.8.0` | ⚠️ outdated |
-| Arch | `18.24.5` | ✅ latest |
-| Homebrew | `18.24.5` | ✅ latest |
+| Arch | `18.24.5` | ⚠️ outdated |
+| Homebrew | `18.24.5` | ⚠️ outdated |
 | Fedora rawhide | `18.12.1` | ⚠️ outdated |
 | Nix unstable | `18.24.4` | ⚠️ outdated |
 | Void | `18.16.1` | ⚠️ outdated |
@@ -125,4 +125,4 @@ atuin 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:11:35Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T09:03:28Z._
