@@ -33,27 +33,27 @@ Total: **223,991** lines of code across **765** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v18.24.8` (2026-11-13)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-16
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 32,357 · **Forks**: 1,035 · **Open issues**: 1,475 · **Contributors**: 359
+- **Stars**: 32,453 · **Forks**: 1,047 · **Open issues**: 1,475 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 2351 · **Open PRs**: 140 · **Closed issues**: 1160 · **Open issues**: 315 · **Commits**: 2627
+- **Releases**: 104 · **Merged PRs**: 2352 · **Open PRs**: 145 · **Closed issues**: 1161 · **Open issues**: 314 · **Commits**: 2628
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 8 | 172 | 43 | 15 | 26 | 233 |
-| last60d | 2026-09-16 | 12 | 337 | 72 | 34 | 40 | 412 |
-| 90d | 2026-08-17 | 16 | 485 | 94 | 53 | 48 | 557 |
-| last180d | 2026-05-19 | 29 | 727 | 121 | 109 | 80 | 820 |
-| 360d | 2025-11-20 | 57 | 999 | 130 | 229 | 117 | 1128 |
-| last720d | 2024-11-25 | 71 | 1188 | 140 | 415 | 209 | 1351 |
+| 30d | 2026-10-17 | 7 | 168 | 48 | 16 | 24 | 174 |
+| last60d | 2026-09-17 | 12 | 334 | 77 | 34 | 39 | 362 |
+| 90d | 2026-08-18 | 16 | 478 | 98 | 54 | 46 | 529 |
+| last180d | 2026-05-20 | 29 | 728 | 125 | 110 | 79 | 820 |
+| 360d | 2025-11-21 | 57 | 1000 | 135 | 230 | 116 | 1128 |
+| last720d | 2024-11-26 | 71 | 1189 | 145 | 416 | 208 | 1352 |
 
 ## Release assets
 
@@ -100,7 +100,7 @@ Total: **223,991** lines of code across **765** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **162** distros on [repology.org](https://repology.org/project/atuin). **17** are ✅ on the latest upstream release, **132** are ⚠️ on an older version.
+Reported by **162** distros on [repology.org](https://repology.org/project/atuin). **20** are ✅ on the latest upstream release, **129** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -109,9 +109,9 @@ Reported by **162** distros on [repology.org](https://repology.org/project/atuin
 | Debian 13 | `18.6.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `18.8.0` | ⚠️ outdated |
 | Arch | `18.24.6` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `18.24.8` | ✅ latest |
 | Fedora rawhide | `18.12.1` | ⚠️ outdated |
-| Nix unstable | `18.24.6` | ⚠️ outdated |
+| Nix unstable | `18.24.8` | ✅ latest |
 | Void | `18.24.8` | ✅ latest |
 | Alpine edge | `18.23.0` | ⚠️ outdated |
 | openSUSE Tumbleweed | `18.24.3` | ⚠️ outdated |
@@ -125,4 +125,4 @@ Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:57:37Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:30:49Z._
