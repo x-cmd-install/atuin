@@ -14,14 +14,14 @@ x install atuin
 
 ## Code insight
 
-Total: **223,991** lines of code across **765** files in the top 5 languages.
+Total: **225,098** lines of code across **765** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 207,753 | 7,020 | 23,940 | 684 |
+| Rust | 208,859 | 7,067 | 24,079 | 684 |
 | Json | 4,439 | 0 | 2 | 14 |
 | Protobuf | 3,444 | 3,933 | 538 | 12 |
-| Toml | 1,623 | 617 | 261 | 44 |
+| Toml | 1,624 | 617 | 261 | 44 |
 | Sh | 1,361 | 405 | 296 | 11 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **223,991** lines of code across **765** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v18.24.8` (2026-11-13)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 32,453 · **Forks**: 1,047 · **Open issues**: 1,475 · **Contributors**: 359
+- **Stars**: 32,499 · **Forks**: 1,047 · **Open issues**: 1,475 · **Contributors**: 359
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 2352 · **Open PRs**: 145 · **Closed issues**: 1161 · **Open issues**: 314 · **Commits**: 2628
+- **Releases**: 104 · **Merged PRs**: 2355 · **Open PRs**: 147 · **Closed issues**: 1161 · **Open issues**: 314 · **Commits**: 2631
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 7 | 168 | 48 | 16 | 24 | 174 |
-| last60d | 2026-09-17 | 12 | 334 | 77 | 34 | 39 | 362 |
-| 90d | 2026-08-18 | 16 | 478 | 98 | 54 | 46 | 529 |
-| last180d | 2026-05-20 | 29 | 728 | 125 | 110 | 79 | 820 |
-| 360d | 2025-11-21 | 57 | 1000 | 135 | 230 | 116 | 1128 |
-| last720d | 2024-11-26 | 71 | 1189 | 145 | 416 | 208 | 1352 |
+| 30d | 2026-10-18 | 7 | 167 | 50 | 15 | 24 | 177 |
+| last60d | 2026-09-18 | 12 | 328 | 78 | 34 | 39 | 365 |
+| 90d | 2026-08-19 | 16 | 475 | 100 | 54 | 46 | 532 |
+| last180d | 2026-05-21 | 29 | 731 | 127 | 110 | 79 | 823 |
+| 360d | 2025-11-22 | 57 | 1003 | 137 | 230 | 116 | 1131 |
+| last720d | 2024-11-27 | 71 | 1192 | 147 | 416 | 208 | 1355 |
 
 ## Release assets
 
@@ -98,24 +98,6 @@ Total: **223,991** lines of code across **765** files in the top 5 languages.
 | [source.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.8/source.tar.gz) | 5.3 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.8/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **162** distros on [repology.org](https://repology.org/project/atuin). **20** are ✅ on the latest upstream release, **129** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `18.23.0` | 🪦 legacy |
-| Debian 14 | `18.23.0` | ⚠️ outdated |
-| Debian 13 | `18.6.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `18.8.0` | ⚠️ outdated |
-| Arch | `18.24.6` | ⚠️ outdated |
-| Homebrew | `18.24.8` | ✅ latest |
-| Fedora rawhide | `18.12.1` | ⚠️ outdated |
-| Nix unstable | `18.24.8` | ✅ latest |
-| Void | `18.24.8` | ✅ latest |
-| Alpine edge | `18.23.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `18.24.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `atuin` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -125,4 +107,4 @@ Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:30:49Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:38:45Z._
