@@ -14,15 +14,15 @@ x install atuin
 
 ## Code insight
 
-Total: **225,098** lines of code across **765** files in the top 5 languages.
+Total: **216,888** lines of code across **724** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 208,859 | 7,067 | 24,079 | 684 |
-| Json | 4,439 | 0 | 2 | 14 |
-| Protobuf | 3,444 | 3,933 | 538 | 12 |
-| Toml | 1,624 | 617 | 261 | 44 |
-| Sh | 1,361 | 405 | 296 | 11 |
+| Rust | 201,138 | 6,519 | 22,800 | 646 |
+| Json | 4,144 | 0 | 2 | 13 |
+| Protobuf | 3,452 | 3,939 | 539 | 12 |
+| Toml | 1,597 | 624 | 260 | 44 |
+| Sh | 1,263 | 387 | 277 | 9 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **225,098** lines of code across **765** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v18.24.8` (2026-11-13)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-19
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 32,499 · **Forks**: 1,047 · **Open issues**: 1,475 · **Contributors**: 359
+- **Stars**: 32,526 · **Forks**: 1,050 · **Open issues**: 1,476 · **Contributors**: 361
 
 ## Totals (cumulative)
 
-- **Releases**: 104 · **Merged PRs**: 2355 · **Open PRs**: 147 · **Closed issues**: 1161 · **Open issues**: 314 · **Commits**: 2631
+- **Releases**: 104 · **Merged PRs**: 2368 · **Open PRs**: 143 · **Closed issues**: 1164 · **Open issues**: 312 · **Commits**: 2649
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 7 | 167 | 50 | 15 | 24 | 177 |
-| last60d | 2026-09-18 | 12 | 328 | 78 | 34 | 39 | 365 |
-| 90d | 2026-08-19 | 16 | 475 | 100 | 54 | 46 | 532 |
-| last180d | 2026-05-21 | 29 | 731 | 127 | 110 | 79 | 823 |
-| 360d | 2025-11-22 | 57 | 1003 | 137 | 230 | 116 | 1131 |
-| last720d | 2024-11-27 | 71 | 1192 | 147 | 416 | 208 | 1355 |
+| 30d | 2026-10-20 | 7 | 157 | 45 | 16 | 23 | 195 |
+| last60d | 2026-09-20 | 12 | 336 | 73 | 35 | 38 | 383 |
+| 90d | 2026-08-21 | 16 | 477 | 92 | 54 | 45 | 550 |
+| last180d | 2026-05-23 | 29 | 744 | 123 | 113 | 77 | 841 |
+| 360d | 2025-11-24 | 57 | 1014 | 133 | 233 | 114 | 1149 |
+| last720d | 2024-11-29 | 71 | 1205 | 143 | 419 | 206 | 1373 |
 
 ## Release assets
 
@@ -98,6 +98,24 @@ Total: **225,098** lines of code across **765** files in the top 5 languages.
 | [source.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.24.8/source.tar.gz) | 5.3 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.24.8/source.tar.gz.sha256) | 81 B | `other` |
 
+## Distribution status
+
+Reported by **164** distros on [repology.org](https://repology.org/project/atuin). **24** are ✅ on the latest upstream release, **127** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `18.23.0` | 🪦 legacy |
+| Debian 14 | `18.23.0` | ⚠️ outdated |
+| Debian 13 | `18.6.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `18.8.0` | ⚠️ outdated |
+| Arch | `18.24.8` | ✅ latest |
+| Homebrew | `18.24.8` | ✅ latest |
+| Fedora rawhide | `18.12.1` | ⚠️ outdated |
+| Nix unstable | `18.24.8` | ✅ latest |
+| Void | `18.24.8` | ✅ latest |
+| Alpine edge | `18.23.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `18.24.5` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `atuin` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -107,4 +125,4 @@ Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:38:45Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:37:52Z._
