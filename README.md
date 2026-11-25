@@ -14,14 +14,14 @@ x install atuin
 
 ## Code insight
 
-Total: **220,647** lines of code across **741** files in the top 5 languages.
+Total: **221,925** lines of code across **743** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 205,037 | 6,583 | 23,218 | 659 |
+| Rust | 206,316 | 6,602 | 23,324 | 661 |
 | Json | 4,149 | 0 | 2 | 18 |
 | Protobuf | 3,295 | 3,835 | 506 | 11 |
-| Toml | 1,601 | 628 | 260 | 44 |
+| Toml | 1,603 | 630 | 261 | 44 |
 | Sh | 1,263 | 387 | 277 | 9 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **220,647** lines of code across **741** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v18.25.1` (2026-11-20)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 32,587 · **Forks**: 1,053 · **Open issues**: 1,485 · **Contributors**: 361
+- **Stars**: 32,620 · **Forks**: 1,055 · **Open issues**: 1,487 · **Contributors**: 361
 
 ## Totals (cumulative)
 
-- **Releases**: 106 · **Merged PRs**: 2397 · **Open PRs**: 151 · **Closed issues**: 1165 · **Open issues**: 320 · **Commits**: 2685
+- **Releases**: 106 · **Merged PRs**: 2400 · **Open PRs**: 135 · **Closed issues**: 1205 · **Open issues**: 282 · **Commits**: 2688
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 8 | 163 | 47 | 14 | 31 | 176 |
-| last60d | 2026-09-25 | 13 | 317 | 78 | 29 | 44 | 396 |
-| 90d | 2026-08-26 | 17 | 489 | 99 | 52 | 50 | 556 |
-| last180d | 2026-05-28 | 31 | 768 | 130 | 112 | 84 | 874 |
-| 360d | 2025-11-29 | 59 | 1041 | 141 | 234 | 121 | 1183 |
-| last720d | 2024-12-04 | 73 | 1233 | 151 | 417 | 213 | 1409 |
+| 30d | 2026-10-26 | 8 | 150 | 44 | 16 | 31 | 179 |
+| last60d | 2026-09-26 | 13 | 319 | 72 | 31 | 44 | 399 |
+| 90d | 2026-08-27 | 17 | 488 | 88 | 55 | 49 | 559 |
+| last180d | 2026-05-29 | 31 | 769 | 115 | 122 | 76 | 877 |
+| 360d | 2025-11-30 | 59 | 1043 | 125 | 249 | 108 | 1186 |
+| last720d | 2024-12-05 | 73 | 1232 | 135 | 441 | 189 | 1412 |
 
 ## Release assets
 
@@ -98,24 +98,6 @@ Total: **220,647** lines of code across **741** files in the top 5 languages.
 | [source.tar.gz](https://github.com/atuinsh/atuin/releases/download/v18.25.1/source.tar.gz) | 3.8 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/atuinsh/atuin/releases/download/v18.25.1/source.tar.gz.sha256) | 81 B | `other` |
 
-## Distribution status
-
-Reported by **164** distros on [repology.org](https://repology.org/project/atuin). **17** are ✅ on the latest upstream release, **134** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `18.23.0` | 🪦 legacy |
-| Debian 14 | `18.23.0` | ⚠️ outdated |
-| Debian 13 | `18.6.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `18.8.0` | ⚠️ outdated |
-| Arch | `18.24.8` | ⚠️ outdated |
-| Homebrew | `18.25.1` | ✅ latest |
-| Fedora rawhide | `18.12.1` | ⚠️ outdated |
-| Nix unstable | `18.24.8` | ⚠️ outdated |
-| Void | `18.24.8` | ⚠️ outdated |
-| Alpine edge | `18.23.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `18.25.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `atuin` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -125,4 +107,4 @@ Install metadata for atuin lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:40:14Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:25:44Z._
